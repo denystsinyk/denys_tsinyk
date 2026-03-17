@@ -10,30 +10,31 @@ See: .planning/PROJECT.md (updated 2026-03-16)
 ## Current Position
 
 Phase: 1 of 5 (Foundation)
-Plan: 1 of 2 in current phase
-Status: In progress
-Last activity: 2026-03-16 — Completed 01-01 scaffold and static content components
+Plan: 2 of 2 in current phase
+Status: Awaiting checkpoint — live GitHub Pages URL verification
+Last activity: 2026-03-17 — Pushed deploy workflow; awaiting human-verify checkpoint for live URL
 
-Progress: [█░░░░░░░░░] 10%
+Progress: [██░░░░░░░░] 20%
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 1
-- Average duration: 4 min
-- Total execution time: 0.07 hours
+- Total plans completed: 2
+- Average duration: 3.5 min
+- Total execution time: 0.12 hours
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
-| 01-foundation | 1 | 4 min | 4 min |
+| 01-foundation | 2 | 7 min | 3.5 min |
 
 **Recent Trend:**
-- Last 5 plans: 01-01 (4 min)
+- Last 5 plans: 01-01 (4 min), 01-02 (3 min)
 - Trend: -
 
 *Updated after each plan completion*
+| 01-foundation | 2 | 7 min | 3.5 min |
 
 ## Accumulated Context
 
@@ -49,6 +50,8 @@ Recent decisions affecting current work:
 - [01-01]: Used @types/node for process.env in vite.config.ts (TypeScript strict mode requirement)
 - [01-01]: src/vite-env.d.ts required when manually scaffolding (noUncheckedSideEffectImports in TS 5.6)
 - [01-01]: Social links use labeled placeholders — GITHUB_USERNAME, LINKEDIN_SLUG, EMAIL_ADDRESS
+- [Phase 01-02]: Used official actions/deploy-pages@v4 pipeline with configure-pages@v5 for dynamic VITE_BASE_PATH injection
+- [Phase 01-02]: One-time GitHub repo setup required: Settings > Pages > Source must be 'GitHub Actions' before first deploy succeeds
 
 ### Pending Todos
 
@@ -61,6 +64,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-16
-Stopped at: Completed 01-01-PLAN.md — Vite scaffold + static content components
+Last session: 2026-03-17
+Stopped at: 01-02-PLAN.md Task 2 checkpoint — deploy workflow pushed, awaiting live GitHub Pages verification
 Resume file: None

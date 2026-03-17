@@ -8,7 +8,7 @@
 ### Foundation
 
 - [x] **FNDN-01**: Project scaffolds with Vite 6 + React 18 + TypeScript 5 + Tailwind CSS v4
-- [ ] **FNDN-02**: Site deploys to GitHub Pages automatically on push via `deploy.yml` workflow with correct Vite `base` path
+- [x] **FNDN-02**: Site deploys to GitHub Pages automatically on push via `deploy.yml` workflow with correct Vite `base` path
 - [ ] **FNDN-03**: Canonical `data.json` schema is defined with TypeScript types in `src/types/data.ts` as the contract between pipeline and UI
 - [ ] **FNDN-04**: `useData()` hook loads `data.json` on mount and exposes loading, error, stale, and data states to all sections
 
@@ -81,7 +81,7 @@ Which phases cover which requirements. Updated during roadmap creation.
 | Requirement | Phase | Status |
 |-------------|-------|--------|
 | FNDN-01 | Phase 1 | Complete |
-| FNDN-02 | Phase 1 | Pending |
+| FNDN-02 | Phase 1 | Complete |
 | FNDN-03 | Phase 2 | Pending |
 | FNDN-04 | Phase 2 | Pending |
 | PROF-01 | Phase 1 | Complete |
