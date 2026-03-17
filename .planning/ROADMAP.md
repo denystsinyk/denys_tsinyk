@@ -46,7 +46,12 @@ Plans:
   3. User sees a GitHub stats bar showing top languages and contribution streak populated from live data
   4. The site footer shows an updated_at timestamp that changes on every cron run, confirming data freshness
   5. If steam_ok or spotify_ok is false in data.json, the corresponding section shows a fallback state instead of blank or stale content
-**Plans**: TBD
+**Plans**: 3 plans
+
+Plans:
+- [ ] 02-01-PLAN.md — TypeScript data contract (src/types/data.ts), useData() hook, and stub public/data.json
+- [ ] 02-02-PLAN.md — GitHub Actions cron pipeline (refresh-data.yml) and fetch-github-data.js script
+- [ ] 02-03-PLAN.md — ProjectsSection, GitHubStatsSection, Footer update, App.tsx wiring, and steam/spotify fallback placeholders
 
 ### Phase 3: Steam Pipeline
 **Goal**: The GitHub Actions cron workflow is running in production, Steam data is fetched every ~10 minutes, and the gaming section shows top 5 played games with capsule art and accurate "PLAYING NOW" detection
@@ -89,7 +94,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Foundation | 2/2 | Complete   | 2026-03-17 |
-| 2. Data Contract + GitHub Stats | 0/TBD | Not started | - |
+| 2. Data Contract + GitHub Stats | 0/3 | Not started | - |
 | 3. Steam Pipeline | 0/TBD | Not started | - |
 | 4. Spotify Integration | 0/TBD | Not started | - |
 | 5. Polish + Hardening | 0/TBD | Not started | - |
