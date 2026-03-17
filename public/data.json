@@ -1,0 +1,31 @@
+{
+  "updated_at": "2026-01-01T00:00:00.000Z",
+  "steam_ok": false,
+  "spotify_ok": false,
+  "github": {
+    "pinned_repos": [
+      {
+        "name": "example-repo",
+        "description": "An example pinned repository",
+        "url": "https://github.com/example/example-repo",
+        "stargazerCount": 0,
+        "primaryLanguage": { "name": "TypeScript", "color": "#3178c6" }
+      }
+    ],
+    "stats": {
+      "topLanguages": [
+        { "name": "TypeScript", "color": "#3178c6", "count": 1 }
+      ],
+      "contributionStreak": 0,
+      "totalContributionsThisYear": 0
+    }
+  },
+  "steam": {
+    "top_games": [],
+    "currently_playing": null
+  },
+  "spotify": {
+    "recent_tracks": [],
+    "currently_playing": null
+  }
+}
