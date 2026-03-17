@@ -13,7 +13,7 @@ Five phases deliver a live-data personal portfolio from zero to production. Phas
 Decimal phases appear between their surrounding integers in numeric order.
 
 - [x] **Phase 1: Foundation** - Deploy a real URL with static portfolio content before any API work begins (completed 2026-03-17)
-- [ ] **Phase 2: Data Contract + GitHub Stats** - Define the data.json schema and validate the full data pipeline with GitHub's public API
+- [x] **Phase 2: Data Contract + GitHub Stats** - Define the data.json schema and validate the full data pipeline with GitHub's public API (completed 2026-03-17)
 - [ ] **Phase 3: Steam Pipeline** - Wire up the Actions cron, Steam API, and render the gaming section with live "PLAYING NOW" detection
 - [ ] **Phase 4: Spotify Integration** - Add the Spotify fetch module with OAuth refresh-token handling and render the music section
 - [ ] **Phase 5: Polish + Hardening** - Add hover states, staleness suppression, responsive refinements, and visual consistency pass
@@ -94,7 +94,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Foundation | 2/2 | Complete   | 2026-03-17 |
-| 2. Data Contract + GitHub Stats | 2/3 | In Progress|  |
+| 2. Data Contract + GitHub Stats | 3/3 | Complete   | 2026-03-17 |
 | 3. Steam Pipeline | 0/TBD | Not started | - |
 | 4. Spotify Integration | 0/TBD | Not started | - |
 | 5. Polish + Hardening | 0/TBD | Not started | - |

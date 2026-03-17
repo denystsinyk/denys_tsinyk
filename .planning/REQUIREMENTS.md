@@ -34,9 +34,9 @@
 
 ### Projects
 
-- [ ] **PROJ-01**: User sees pinned GitHub repos auto-fetched via GitHub GraphQL, each card showing repo name, description, star count, and primary language badge
-- [ ] **PROJ-02**: Each project card is clickable and opens the GitHub repo URL in a new tab
-- [ ] **PROJ-03**: User sees a GitHub stats bar showing top languages and contribution streak pulled from GitHub API
+- [x] **PROJ-01**: User sees pinned GitHub repos auto-fetched via GitHub GraphQL, each card showing repo name, description, star count, and primary language badge
+- [x] **PROJ-02**: Each project card is clickable and opens the GitHub repo URL in a new tab
+- [x] **PROJ-03**: User sees a GitHub stats bar showing top languages and contribution streak pulled from GitHub API
 
 ### Social
 
@@ -92,9 +92,9 @@ Which phases cover which requirements. Updated during roadmap creation.
 | PIPE-01 | Phase 2 | Complete |
 | PIPE-02 | Phase 2 | Complete |
 | PIPE-03 | Phase 2 | Complete |
-| PROJ-01 | Phase 2 | Pending |
-| PROJ-02 | Phase 2 | Pending |
-| PROJ-03 | Phase 2 | Pending |
+| PROJ-01 | Phase 2 | Complete |
+| PROJ-02 | Phase 2 | Complete |
+| PROJ-03 | Phase 2 | Complete |
 | GAME-01 | Phase 3 | Pending |
 | GAME-02 | Phase 3 | Pending |
 | GAME-03 | Phase 3 | Pending |
