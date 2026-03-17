@@ -49,8 +49,8 @@ Plans:
 **Plans**: 3 plans
 
 Plans:
-- [ ] 02-01-PLAN.md — TypeScript data contract (src/types/data.ts), useData() hook, and stub public/data.json
-- [ ] 02-02-PLAN.md — GitHub Actions cron pipeline (refresh-data.yml) and fetch-github-data.js script
+- [x] 02-01-PLAN.md — TypeScript data contract (src/types/data.ts), useData() hook, and stub public/data.json
+- [x] 02-02-PLAN.md — GitHub Actions cron pipeline (refresh-data.yml) and fetch-github-data.js script
 - [ ] 02-03-PLAN.md — ProjectsSection, GitHubStatsSection, Footer update, App.tsx wiring, and steam/spotify fallback placeholders
 
 ### Phase 3: Steam Pipeline
@@ -94,7 +94,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Foundation | 2/2 | Complete   | 2026-03-17 |
-| 2. Data Contract + GitHub Stats | 1/3 | In Progress|  |
+| 2. Data Contract + GitHub Stats | 2/3 | In Progress|  |
 | 3. Steam Pipeline | 0/TBD | Not started | - |
 | 4. Spotify Integration | 0/TBD | Not started | - |
 | 5. Polish + Hardening | 0/TBD | Not started | - |

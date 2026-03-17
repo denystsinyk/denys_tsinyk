@@ -10,29 +10,29 @@ See: .planning/PROJECT.md (updated 2026-03-16)
 ## Current Position
 
 Phase: 2 of 5 (Data Contract + GitHub Stats)
-Plan: 1 of 3 in current phase — COMPLETE
-Status: Phase 2 Plan 1 complete — TypeScript data contract and useData() hook defined
-Last activity: 2026-03-17 — src/types/data.ts (7 interfaces), src/hooks/useData.ts, public/data.json created; build passes
+Plan: 2 of 3 in current phase — COMPLETE
+Status: Phase 2 Plan 2 complete — GitHub Actions cron pipeline and fetch-github-data.js created
+Last activity: 2026-03-17 — scripts/fetch-github-data.js (GraphQL pipeline), .github/workflows/refresh-data.yml (cron workflow)
 
-Progress: [████░░░░░░] 40%
+Progress: [█████░░░░░] 50%
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 3
-- Average duration: 3 min
-- Total execution time: 0.13 hours
+- Total plans completed: 4
+- Average duration: 2.75 min
+- Total execution time: 0.18 hours
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
 | 01-foundation | 2 | 7 min | 3.5 min |
-| 02-data-contract-github-stats | 1 | 2 min | 2 min |
+| 02-data-contract-github-stats | 2 | 4 min | 2 min |
 
 **Recent Trend:**
-- Last 5 plans: 01-01 (4 min), 01-02 (3 min), 02-01 (2 min)
-- Trend: improving
+- Last 5 plans: 01-01 (4 min), 01-02 (3 min), 02-01 (2 min), 02-02 (2 min)
+- Trend: stable
 
 *Updated after each plan completion*
 
@@ -56,6 +56,9 @@ Recent decisions affecting current work:
 - [02-01]: isStale threshold set at 30 minutes — aligns with Phase 5 PLAYING NOW suppression requirement
 - [02-01]: public/data.json stub has steam_ok: false, spotify_ok: false — fallback UI paths are exercised on every local dev run
 - [02-01]: useData() uses import.meta.env.BASE_URL consistent with HeroSection.tsx headshot image pattern
+- [02-02]: GH_PAT (classic PAT) used instead of GITHUB_TOKEN — GITHUB_TOKEN may lack read:user scope for pinnedItems GraphQL
+- [02-02]: Top languages derived from pinnedItems primaryLanguage (same GraphQL call) — all-repos accuracy deferred to Phase 5
+- [02-02]: Year-boundary streak limitation accepted for v1 — contributionsCollection defaults to current calendar year
 
 ### Pending Todos
 
@@ -69,5 +72,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-03-17
-Stopped at: Completed 02-01-PLAN.md (data contract + useData hook)
-Resume file: .planning/phases/02-data-contract-github-stats/02-02-PLAN.md
+Stopped at: Completed 02-02-PLAN.md (GitHub data pipeline + cron workflow)
+Resume file: .planning/phases/02-data-contract-github-stats/02-03-PLAN.md

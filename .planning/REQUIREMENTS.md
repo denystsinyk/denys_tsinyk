@@ -44,8 +44,8 @@
 
 ### Data Pipeline
 
-- [ ] **PIPE-01**: GitHub Actions `refresh-data.yml` workflow runs on a ~10-minute cron schedule, fetches Steam + Spotify + GitHub APIs using repo secrets, and commits updated `public/data.json` with `[skip ci]` to avoid triggering a rebuild
-- [ ] **PIPE-02**: `data.json` includes an `updated_at` ISO timestamp at the root level, displayed in the site footer so the user can verify data freshness
+- [x] **PIPE-01**: GitHub Actions `refresh-data.yml` workflow runs on a ~10-minute cron schedule, fetches Steam + Spotify + GitHub APIs using repo secrets, and commits updated `public/data.json` with `[skip ci]` to avoid triggering a rebuild
+- [x] **PIPE-02**: `data.json` includes an `updated_at` ISO timestamp at the root level, displayed in the site footer so the user can verify data freshness
 - [x] **PIPE-03**: `data.json` includes `steam_ok` and `spotify_ok` boolean flags; UI sections show a fallback state when the corresponding flag is `false`
 
 ## v2 Requirements
@@ -89,8 +89,8 @@ Which phases cover which requirements. Updated during roadmap creation.
 | PROF-03 | Phase 1 | Complete |
 | PROF-04 | Phase 1 | Complete |
 | SOCL-01 | Phase 1 | Complete |
-| PIPE-01 | Phase 2 | Pending |
-| PIPE-02 | Phase 2 | Pending |
+| PIPE-01 | Phase 2 | Complete |
+| PIPE-02 | Phase 2 | Complete |
 | PIPE-03 | Phase 2 | Complete |
 | PROJ-01 | Phase 2 | Pending |
 | PROJ-02 | Phase 2 | Pending |
