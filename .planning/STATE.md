@@ -5,36 +5,36 @@
 See: .planning/PROJECT.md (updated 2026-03-16)
 
 **Core value:** A live dashboard of Denys's real-world activity — not a resume, but a window into what he's building, playing, and listening to right now.
-**Current focus:** Phase 1 — Foundation
+**Current focus:** Phase 2 — Data Contract + GitHub Stats
 
 ## Current Position
 
-Phase: 1 of 5 (Foundation)
-Plan: 2 of 2 in current phase — COMPLETE
-Status: Phase 1 complete — live GitHub Pages URL verified and approved
-Last activity: 2026-03-17 — Live site at https://denystsinyk.github.io/denys_tsinyk/ confirmed working, all assets load without 404
+Phase: 2 of 5 (Data Contract + GitHub Stats)
+Plan: 1 of 3 in current phase — COMPLETE
+Status: Phase 2 Plan 1 complete — TypeScript data contract and useData() hook defined
+Last activity: 2026-03-17 — src/types/data.ts (7 interfaces), src/hooks/useData.ts, public/data.json created; build passes
 
 Progress: [████░░░░░░] 40%
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 2
-- Average duration: 3.5 min
-- Total execution time: 0.12 hours
+- Total plans completed: 3
+- Average duration: 3 min
+- Total execution time: 0.13 hours
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
 | 01-foundation | 2 | 7 min | 3.5 min |
+| 02-data-contract-github-stats | 1 | 2 min | 2 min |
 
 **Recent Trend:**
-- Last 5 plans: 01-01 (4 min), 01-02 (3 min)
-- Trend: -
+- Last 5 plans: 01-01 (4 min), 01-02 (3 min), 02-01 (2 min)
+- Trend: improving
 
 *Updated after each plan completion*
-| 01-foundation | 2 | 7 min | 3.5 min |
 
 ## Accumulated Context
 
@@ -52,6 +52,10 @@ Recent decisions affecting current work:
 - [01-01]: Social links use labeled placeholders — GITHUB_USERNAME, LINKEDIN_SLUG, EMAIL_ADDRESS
 - [Phase 01-02]: Used official actions/deploy-pages@v4 pipeline with configure-pages@v5 for dynamic VITE_BASE_PATH injection
 - [Phase 01-02]: One-time GitHub repo setup required: Settings > Pages > Source must be 'GitHub Actions' before first deploy succeeds
+- [02-01]: All nullable fields use strict '| null' not optional '?' — TypeScript contract prevents silent undefined reads
+- [02-01]: isStale threshold set at 30 minutes — aligns with Phase 5 PLAYING NOW suppression requirement
+- [02-01]: public/data.json stub has steam_ok: false, spotify_ok: false — fallback UI paths are exercised on every local dev run
+- [02-01]: useData() uses import.meta.env.BASE_URL consistent with HeroSection.tsx headshot image pattern
 
 ### Pending Todos
 
@@ -65,5 +69,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-03-17
-Stopped at: Phase 2 context gathered
-Resume file: .planning/phases/02-data-contract-github-stats/02-CONTEXT.md
+Stopped at: Completed 02-01-PLAN.md (data contract + useData hook)
+Resume file: .planning/phases/02-data-contract-github-stats/02-02-PLAN.md

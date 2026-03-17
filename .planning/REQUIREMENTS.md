@@ -9,8 +9,8 @@
 
 - [x] **FNDN-01**: Project scaffolds with Vite 6 + React 18 + TypeScript 5 + Tailwind CSS v4
 - [x] **FNDN-02**: Site deploys to GitHub Pages automatically on push via `deploy.yml` workflow with correct Vite `base` path
-- [ ] **FNDN-03**: Canonical `data.json` schema is defined with TypeScript types in `src/types/data.ts` as the contract between pipeline and UI
-- [ ] **FNDN-04**: `useData()` hook loads `data.json` on mount and exposes loading, error, stale, and data states to all sections
+- [x] **FNDN-03**: Canonical `data.json` schema is defined with TypeScript types in `src/types/data.ts` as the contract between pipeline and UI
+- [x] **FNDN-04**: `useData()` hook loads `data.json` on mount and exposes loading, error, stale, and data states to all sections
 
 ### Professional
 
@@ -46,7 +46,7 @@
 
 - [ ] **PIPE-01**: GitHub Actions `refresh-data.yml` workflow runs on a ~10-minute cron schedule, fetches Steam + Spotify + GitHub APIs using repo secrets, and commits updated `public/data.json` with `[skip ci]` to avoid triggering a rebuild
 - [ ] **PIPE-02**: `data.json` includes an `updated_at` ISO timestamp at the root level, displayed in the site footer so the user can verify data freshness
-- [ ] **PIPE-03**: `data.json` includes `steam_ok` and `spotify_ok` boolean flags; UI sections show a fallback state when the corresponding flag is `false`
+- [x] **PIPE-03**: `data.json` includes `steam_ok` and `spotify_ok` boolean flags; UI sections show a fallback state when the corresponding flag is `false`
 
 ## v2 Requirements
 
@@ -82,8 +82,8 @@ Which phases cover which requirements. Updated during roadmap creation.
 |-------------|-------|--------|
 | FNDN-01 | Phase 1 | Complete |
 | FNDN-02 | Phase 1 | Complete |
-| FNDN-03 | Phase 2 | Pending |
-| FNDN-04 | Phase 2 | Pending |
+| FNDN-03 | Phase 2 | Complete |
+| FNDN-04 | Phase 2 | Complete |
 | PROF-01 | Phase 1 | Complete |
 | PROF-02 | Phase 1 | Complete |
 | PROF-03 | Phase 1 | Complete |
@@ -91,7 +91,7 @@ Which phases cover which requirements. Updated during roadmap creation.
 | SOCL-01 | Phase 1 | Complete |
 | PIPE-01 | Phase 2 | Pending |
 | PIPE-02 | Phase 2 | Pending |
-| PIPE-03 | Phase 2 | Pending |
+| PIPE-03 | Phase 2 | Complete |
 | PROJ-01 | Phase 2 | Pending |
 | PROJ-02 | Phase 2 | Pending |
 | PROJ-03 | Phase 2 | Pending |
