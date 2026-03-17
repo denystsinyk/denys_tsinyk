@@ -7,17 +7,17 @@
 
 ### Foundation
 
-- [ ] **FNDN-01**: Project scaffolds with Vite 6 + React 18 + TypeScript 5 + Tailwind CSS v4
+- [x] **FNDN-01**: Project scaffolds with Vite 6 + React 18 + TypeScript 5 + Tailwind CSS v4
 - [ ] **FNDN-02**: Site deploys to GitHub Pages automatically on push via `deploy.yml` workflow with correct Vite `base` path
 - [ ] **FNDN-03**: Canonical `data.json` schema is defined with TypeScript types in `src/types/data.ts` as the contract between pipeline and UI
 - [ ] **FNDN-04**: `useData()` hook loads `data.json` on mount and exposes loading, error, stale, and data states to all sections
 
 ### Professional
 
-- [ ] **PROF-01**: User sees "Denys Tsinyk" displayed prominently as the page header
-- [ ] **PROF-02**: User sees headshot photo displayed alongside name in the header section
-- [ ] **PROF-03**: User sees 3 work experience one-liners with no dates: "Software Engineer Intern @ NFL - Security automation", "Teaching Assistant @ Pitt - Data Structures & Algorithms", "Events Coordinator @ PittCSC"
-- [ ] **PROF-04**: Subtle gray dividers visually separate each major section
+- [x] **PROF-01**: User sees "Denys Tsinyk" displayed prominently as the page header
+- [x] **PROF-02**: User sees headshot photo displayed alongside name in the header section
+- [x] **PROF-03**: User sees 3 work experience one-liners with no dates: "Software Engineer Intern @ NFL - Security automation", "Teaching Assistant @ Pitt - Data Structures & Algorithms", "Events Coordinator @ PittCSC"
+- [x] **PROF-04**: Subtle gray dividers visually separate each major section
 
 ### Gaming
 
@@ -40,7 +40,7 @@
 
 ### Social
 
-- [ ] **SOCL-01**: User sees footer with icon links for GitHub, LinkedIn, Email, and Steam profile
+- [x] **SOCL-01**: User sees footer with icon links for GitHub, LinkedIn, Email, and Steam profile
 
 ### Data Pipeline
 
@@ -80,15 +80,15 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| FNDN-01 | Phase 1 | Pending |
+| FNDN-01 | Phase 1 | Complete |
 | FNDN-02 | Phase 1 | Pending |
 | FNDN-03 | Phase 2 | Pending |
 | FNDN-04 | Phase 2 | Pending |
-| PROF-01 | Phase 1 | Pending |
-| PROF-02 | Phase 1 | Pending |
-| PROF-03 | Phase 1 | Pending |
-| PROF-04 | Phase 1 | Pending |
-| SOCL-01 | Phase 1 | Pending |
+| PROF-01 | Phase 1 | Complete |
+| PROF-02 | Phase 1 | Complete |
+| PROF-03 | Phase 1 | Complete |
+| PROF-04 | Phase 1 | Complete |
+| SOCL-01 | Phase 1 | Complete |
 | PIPE-01 | Phase 2 | Pending |
 | PIPE-02 | Phase 2 | Pending |
 | PIPE-03 | Phase 2 | Pending |
