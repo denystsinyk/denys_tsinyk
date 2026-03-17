@@ -51,7 +51,7 @@ Plans:
 Plans:
 - [x] 02-01-PLAN.md — TypeScript data contract (src/types/data.ts), useData() hook, and stub public/data.json
 - [x] 02-02-PLAN.md — GitHub Actions cron pipeline (refresh-data.yml) and fetch-github-data.js script
-- [ ] 02-03-PLAN.md — ProjectsSection, GitHubStatsSection, Footer update, App.tsx wiring, and steam/spotify fallback placeholders
+- [x] 02-03-PLAN.md — ProjectsSection, GitHubStatsSection, Footer update, App.tsx wiring, and steam/spotify fallback placeholders
 
 ### Phase 3: Steam Pipeline
 **Goal**: The GitHub Actions cron workflow is running in production, Steam data is fetched every ~10 minutes, and the gaming section shows top 5 played games with capsule art and accurate "PLAYING NOW" detection
