@@ -34,7 +34,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 
 Plans:
 - [x] 01-01-PLAN.md — Scaffold Vite+React+TS+Tailwind v4 and author static content components (HeroSection, WorkSection, Footer)
-- [ ] 01-02-PLAN.md — Create GitHub Actions deploy workflow and verify live GitHub Pages deployment
+- [x] 01-02-PLAN.md — Create GitHub Actions deploy workflow and verify live GitHub Pages deployment
 
 ### Phase 2: Data Contract + GitHub Stats
 **Goal**: The data.json schema is locked as the architectural contract, and the GitHub Stats section — pinned repos, top languages, contribution streak — renders from live GitHub API data committed by the pipeline

@@ -58,8 +58,8 @@ completed: 2026-03-17
 
 - **Duration:** 3 min
 - **Started:** 2026-03-17T03:26:20Z
-- **Completed:** 2026-03-17T03:29:00Z
-- **Tasks:** 1 of 2 automated (Task 2 is human-verify checkpoint)
+- **Completed:** 2026-03-17
+- **Tasks:** 2 of 2 complete
 - **Files modified:** 1
 
 ## Accomplishments
@@ -67,12 +67,14 @@ completed: 2026-03-17
 - GitHub Actions deploy workflow created and pushed to main — pipeline triggered automatically
 - Official `actions/deploy-pages@v4` pipeline used (not peaceiris) for long-term GitHub support
 - Dynamic base path injection: `actions/configure-pages@v5` outputs `base_path=/denys_tsinyk/` injected as `VITE_BASE_PATH` env var so Vite builds assets with correct sub-path prefix
+- Live site at https://denystsinyk.github.io/denys_tsinyk/ confirmed loading with all content visible and no 404 asset errors (verified and approved by user)
 
 ## Task Commits
 
 Each task was committed atomically:
 
 1. **Task 1: Create GitHub Actions deploy workflow** - `70dc292` (feat)
+2. **Task 2: Verify live GitHub Pages deployment** - Human-verified and approved (no code commit — verification only)
 
 ## Files Created/Modified
 
@@ -110,19 +112,16 @@ None — the workflow file was straightforward to create. The one-time GitHub Pa
 
 ## User Setup Required
 
-**One-time GitHub repository settings change (required before deploy succeeds):**
-1. Open the GitHub repository in a browser
-2. Navigate to Settings > Pages
-3. Under "Build and deployment" > Source: change from "Deploy from a branch" to "GitHub Actions"
-4. Click Save
+**One-time GitHub repository settings change — COMPLETED.**
 
-Without this change, the `deploy-pages` job will fail silently or show a 404 at the Pages URL.
+The following was completed before the first deploy:
+1. GitHub repository Settings > Pages > Source changed from "Deploy from a branch" to "GitHub Actions"
 
-**Verify deployment:**
-- GitHub repository > Actions tab > "Deploy to GitHub Pages" workflow > should show green checkmark
-- URL from deploy job output: `https://denystsinyk.github.io/denys_tsinyk/`
-- Confirm: "Denys Tsinyk" heading, dark background, work entries (NFL/Pitt/PittCSC), footer icons all visible
-- DevTools Network tab: no 404 errors on JS/CSS/image assets
+**Deploy verified:**
+- "Deploy to GitHub Pages" workflow showed green checkmark in Actions tab
+- Live URL: `https://denystsinyk.github.io/denys_tsinyk/`
+- "Denys Tsinyk" heading visible, dark background renders correctly, work entries (NFL/Pitt/PittCSC) and footer icons all visible
+- No 404 errors on JS/CSS/image assets confirmed by user
 
 ## Next Phase Readiness
 
@@ -135,6 +134,7 @@ Without this change, the `deploy-pages` job will fail silently or show a 404 at 
 - FOUND: `.github/workflows/deploy.yml`
 - FOUND: `.planning/phases/01-foundation/01-02-SUMMARY.md`
 - FOUND: commit `70dc292` (feat(01-02): add GitHub Actions deploy workflow)
+- Task 2: Human-verified and approved by user — live site confirmed working at https://denystsinyk.github.io/denys_tsinyk/
 
 ---
 *Phase: 01-foundation*
