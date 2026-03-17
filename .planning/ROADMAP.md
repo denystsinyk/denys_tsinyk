@@ -30,7 +30,11 @@ Decimal phases appear between their surrounding integers in numeric order.
   3. User sees a footer with working icon links for GitHub, LinkedIn, Email, and Steam
   4. The site renders the correct dark background (#0a0a0a) and green (#00ff00) accent with monospace font for data values
   5. Pushing a code change to main automatically triggers a deploy and the live URL reflects the change
-**Plans**: TBD
+**Plans**: 2 plans
+
+Plans:
+- [ ] 01-01-PLAN.md — Scaffold Vite+React+TS+Tailwind v4 and author static content components (HeroSection, WorkSection, Footer)
+- [ ] 01-02-PLAN.md — Create GitHub Actions deploy workflow and verify live GitHub Pages deployment
 
 ### Phase 2: Data Contract + GitHub Stats
 **Goal**: The data.json schema is locked as the architectural contract, and the GitHub Stats section — pinned repos, top languages, contribution streak — renders from live GitHub API data committed by the pipeline
@@ -84,7 +88,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation | 0/TBD | Not started | - |
+| 1. Foundation | 0/2 | Not started | - |
 | 2. Data Contract + GitHub Stats | 0/TBD | Not started | - |
 | 3. Steam Pipeline | 0/TBD | Not started | - |
 | 4. Spotify Integration | 0/TBD | Not started | - |
