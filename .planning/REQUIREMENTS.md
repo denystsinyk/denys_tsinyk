@@ -92,16 +92,16 @@ Which phases cover which requirements. Updated during roadmap creation.
 | PIPE-01 | Phase 2 | Pending |
 | PIPE-02 | Phase 2 | Pending |
 | PIPE-03 | Phase 2 | Pending |
+| PROJ-01 | Phase 2 | Pending |
+| PROJ-02 | Phase 2 | Pending |
+| PROJ-03 | Phase 2 | Pending |
 | GAME-01 | Phase 3 | Pending |
 | GAME-02 | Phase 3 | Pending |
 | GAME-03 | Phase 3 | Pending |
-| GAME-04 | Phase 3 | Pending |
 | MUSC-01 | Phase 4 | Pending |
 | MUSC-02 | Phase 4 | Pending |
 | MUSC-03 | Phase 4 | Pending |
-| PROJ-01 | Phase 5 | Pending |
-| PROJ-02 | Phase 5 | Pending |
-| PROJ-03 | Phase 5 | Pending |
+| GAME-04 | Phase 5 | Pending |
 
 **Coverage:**
 - v1 requirements: 22 total
@@ -110,4 +110,4 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 ---
 *Requirements defined: 2026-03-16*
-*Last updated: 2026-03-16 after initial definition*
+*Last updated: 2026-03-16 after roadmap creation — PROJ-01/02/03 moved to Phase 2 (GitHub stats integrated with data contract), GAME-04 moved to Phase 5 (hover polish applied after all sections exist)*
