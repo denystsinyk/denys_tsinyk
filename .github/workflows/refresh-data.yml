@@ -23,6 +23,12 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_PAT }}
           GH_LOGIN: ${{ github.repository_owner }}
 
+      - name: Fetch Steam data
+        run: node scripts/fetch-steam-data.js
+        env:
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+          STEAM_ID: ${{ secrets.STEAM_ID }}
+
       - name: Commit updated data.json
         run: |
           git config user.name "github-actions[bot]"
