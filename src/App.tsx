@@ -3,6 +3,7 @@ import { WorkSection } from './components/WorkSection'
 import { Footer } from './components/Footer'
 import { ProjectsSection } from './components/ProjectsSection'
 import { GitHubStatsSection } from './components/GitHubStatsSection'
+import { GamingSection } from './components/GamingSection'
 import { useData } from './hooks/useData'
 
 function App() {
@@ -22,12 +23,7 @@ function App() {
             <ProjectsSection repos={data.github.pinned_repos} />
             <GitHubStatsSection stats={data.github.stats} />
 
-            {/* Steam section placeholder — Phase 3 will replace this */}
-            {!data.steam_ok && (
-              <section className="py-8" style={{ borderTop: '1px solid var(--color-divider)' }}>
-                <p className="text-sm opacity-40" style={{ color: 'var(--color-text)' }}>Gaming stats unavailable</p>
-              </section>
-            )}
+            <GamingSection steamData={data.steam} steamOk={data.steam_ok} />
 
             {/* Spotify section placeholder — Phase 4 will replace this */}
             {!data.spotify_ok && (
