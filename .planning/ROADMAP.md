@@ -78,7 +78,12 @@ Plans:
   2. Each track is clickable and opens the Spotify track URL in a new tab
   3. If Spotify data is unavailable (spotify_ok: false or empty array), the music section shows a graceful fallback message instead of a blank section
   4. The pipeline fails loudly (exit 1) on Spotify token exchange failure and writes spotify_ok: false, so stale music data is never silently served
-**Plans**: TBD
+**Plans**: 3 plans
+
+Plans:
+- [ ] 04-01-PLAN.md — Spotify pipeline script (fetch-spotify-data.js), refresh-data.yml step, OAuth runbook
+- [ ] 04-02-PLAN.md — MusicSection component, .hide-scrollbar CSS, App.tsx wiring (replace placeholder)
+- [ ] 04-03-PLAN.md — Human checkpoint: OAuth secrets setup + visual verification
 
 ### Phase 5: Polish + Hardening
 **Goal**: All interactive and visual refinements are applied consistently across sections — hover states on game covers, staleness suppression of live indicators, and responsive layout pass — completing the portfolio's brutalist aesthetic
