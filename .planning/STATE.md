@@ -10,11 +10,11 @@ See: .planning/PROJECT.md (updated 2026-03-16)
 ## Current Position
 
 Phase: 3 of 5 (Steam Pipeline)
-Plan: 2 of 3 in current phase — COMPLETE
-Status: Phase 3 Plan 2 complete — GamingSection component built with pulse-dot animation, PLAYING NOW detection, Steam CDN capsule art; ready for App.tsx wiring (Plan 03)
-Last activity: 2026-03-18 — GamingSection.tsx and index.css pulse-dot completed; 03-02-SUMMARY.md finalized
+Plan: 3 of 3 in current phase — COMPLETE
+Status: Phase 3 fully complete — GamingSection wired into App.tsx, GAMES section renders with fallback; ready for Phase 4 (Spotify Pipeline)
+Last activity: 2026-03-18 — App.tsx wiring complete; 03-03-SUMMARY.md finalized
 
-Progress: [████████░░] 80%
+Progress: [█████████░] 90%
 
 ## Performance Metrics
 
@@ -67,6 +67,7 @@ Recent decisions affecting current work:
 - [Phase 03-01]: Steam script uses read-patch-write (not full overwrite) — preserves GitHub data written by prior workflow step
 - [Phase 03-01]: On Steam fetch failure steam_ok=false but existing steam data preserved — last good state survives transient errors
 - [Phase 03-01]: parseInt(player.gameid, 10) required for appid matching — GetPlayerSummaries gameid is string, owned game appid is number
+- [Phase 03-03]: GamingSection handles steam_ok=false fallback internally — App.tsx renders unconditionally, no wrapper conditional needed
 
 ### Pending Todos
 
@@ -80,5 +81,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-03-18
-Stopped at: Completed 03-01-PLAN.md — Steam fetch script and workflow step done; ready for Plan 2 (GamingSection component)
-Resume file: .planning/phases/03-steam-pipeline/03-02-PLAN.md
+Stopped at: Completed 03-03-PLAN.md — GamingSection wired into App.tsx, Phase 3 complete; ready for Phase 4 (Spotify Pipeline)
+Resume file: .planning/phases/04-spotify-pipeline/ (next phase)
