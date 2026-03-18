@@ -78,7 +78,6 @@ function GameCard({ game, isPlaying }: { game: SteamGame; isPlaying: boolean }) 
           style={{
             fontSize: 11,
             fontWeight: 600,
-            marginBottom: 2,
             color: 'var(--color-text)',
             margin: 0,
             marginBottom: 2,
