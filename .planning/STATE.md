@@ -10,9 +10,9 @@ See: .planning/PROJECT.md (updated 2026-03-16)
 ## Current Position
 
 Phase: 3 of 5 (Steam Pipeline)
-Plan: 1 of 3 in current phase — COMPLETE
-Status: Phase 3 Plan 1 complete — fetch-steam-data.js created and wired into refresh-data.yml
-Last activity: 2026-03-18 — Steam fetch script and workflow step committed
+Plan: 2 of 3 in current phase — COMPLETE
+Status: Phase 3 Plan 2 complete — GamingSection component built with pulse-dot animation, PLAYING NOW detection, Steam CDN capsule art; ready for App.tsx wiring (Plan 03)
+Last activity: 2026-03-18 — GamingSection.tsx and index.css pulse-dot completed; 03-02-SUMMARY.md finalized
 
 Progress: [████████░░] 80%
 
@@ -62,6 +62,8 @@ Recent decisions affecting current work:
 - [02-02]: Year-boundary streak limitation accepted for v1 — contributionsCollection defaults to current calendar year
 - [Phase 02-03]: Language color dots use inline style backgroundColor — dynamic Tailwind classes cannot be generated at runtime for hex values
 - [Phase 02-03]: Intl.RelativeTimeFormat used for Footer relative timestamps — no date library needed
+- [03-02]: pulse-dot animation uses CSS class in index.css, not Tailwind — keyframe animations cannot be generated at runtime
+- [03-02]: Steam capsule art always uses CDN header.jpg from appid — never img_icon_url (32x32 icon hash)
 - [Phase 03-01]: Steam script uses read-patch-write (not full overwrite) — preserves GitHub data written by prior workflow step
 - [Phase 03-01]: On Steam fetch failure steam_ok=false but existing steam data preserved — last good state survives transient errors
 - [Phase 03-01]: parseInt(player.gameid, 10) required for appid matching — GetPlayerSummaries gameid is string, owned game appid is number
