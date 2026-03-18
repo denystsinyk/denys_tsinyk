@@ -62,7 +62,12 @@ Plans:
   2. If the currently playing game is in the top 5, that card shows a green pulse glow and "PLAYING NOW" badge
   3. If the currently playing game is not in the top 5, it appears above the top 5 list with the same "PLAYING NOW" treatment
   4. The refresh-data.yml workflow runs on schedule, commits updated public/data.json with [skip ci], and does not trigger an infinite deploy loop
-**Plans**: TBD
+**Plans**: 3 plans
+
+Plans:
+- [ ] 03-01-PLAN.md — Steam fetch script (fetch-steam-data.js) and refresh-data.yml workflow update
+- [ ] 03-02-PLAN.md — GamingSection component with GameCard, pulse-dot animation, and steam_ok fallback
+- [ ] 03-03-PLAN.md — App.tsx wiring and human visual verification
 
 ### Phase 4: Spotify Integration
 **Goal**: The Spotify fetch module handles the OAuth refresh-token exchange reliably, and the music section renders the last 5 listened tracks as a horizontal scrollable row with album art
@@ -95,6 +100,6 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5
 |-------|----------------|--------|-----------|
 | 1. Foundation | 2/2 | Complete   | 2026-03-17 |
 | 2. Data Contract + GitHub Stats | 3/3 | Complete   | 2026-03-17 |
-| 3. Steam Pipeline | 0/TBD | Not started | - |
+| 3. Steam Pipeline | 2/3 | In Progress|  |
 | 4. Spotify Integration | 0/TBD | Not started | - |
 | 5. Polish + Hardening | 0/TBD | Not started | - |

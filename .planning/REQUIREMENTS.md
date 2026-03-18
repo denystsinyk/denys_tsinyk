@@ -21,7 +21,7 @@
 
 ### Gaming
 
-- [ ] **GAME-01**: User sees top 5 most played Steam games sorted by total hours descending, each showing Steam capsule (wide rectangular) art and hours in "1,234 hours played" format with monospace font
+- [x] **GAME-01**: User sees top 5 most played Steam games sorted by total hours descending, each showing Steam capsule (wide rectangular) art and hours in "1,234 hours played" format with monospace font
 - [ ] **GAME-02**: If the currently playing game is in the top 5, that game card shows a green pulse glow and "PLAYING NOW" badge
 - [ ] **GAME-03**: If the currently playing game is NOT in the top 5, it is shown separately above the top 5 list with the same green pulse glow and "PLAYING NOW" treatment
 - [ ] **GAME-04**: Game covers have smooth hover state with slight scale-up and green glow effect
@@ -95,7 +95,7 @@ Which phases cover which requirements. Updated during roadmap creation.
 | PROJ-01 | Phase 2 | Complete |
 | PROJ-02 | Phase 2 | Complete |
 | PROJ-03 | Phase 2 | Complete |
-| GAME-01 | Phase 3 | Pending |
+| GAME-01 | Phase 3 | Complete |
 | GAME-02 | Phase 3 | Pending |
 | GAME-03 | Phase 3 | Pending |
 | MUSC-01 | Phase 4 | Pending |

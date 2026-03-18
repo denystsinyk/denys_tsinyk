@@ -5,14 +5,14 @@
 See: .planning/PROJECT.md (updated 2026-03-16)
 
 **Core value:** A live dashboard of Denys's real-world activity — not a resume, but a window into what he's building, playing, and listening to right now.
-**Current focus:** Phase 2 — Data Contract + GitHub Stats
+**Current focus:** Phase 3 — Steam Pipeline
 
 ## Current Position
 
-Phase: 2 of 5 (Data Contract + GitHub Stats)
-Plan: 3 of 3 in current phase — COMPLETE
-Status: Phase 2 complete — all 3 plans done; ProjectsSection, GitHubStatsSection, Footer, App.tsx wired and visually verified
-Last activity: 2026-03-17 — visual verification approved by user; 02-03-SUMMARY.md finalized
+Phase: 3 of 5 (Steam Pipeline)
+Plan: 1 of 3 in current phase — COMPLETE
+Status: Phase 3 Plan 1 complete — fetch-steam-data.js created and wired into refresh-data.yml
+Last activity: 2026-03-18 — Steam fetch script and workflow step committed
 
 Progress: [████████░░] 80%
 
@@ -62,6 +62,9 @@ Recent decisions affecting current work:
 - [02-02]: Year-boundary streak limitation accepted for v1 — contributionsCollection defaults to current calendar year
 - [Phase 02-03]: Language color dots use inline style backgroundColor — dynamic Tailwind classes cannot be generated at runtime for hex values
 - [Phase 02-03]: Intl.RelativeTimeFormat used for Footer relative timestamps — no date library needed
+- [Phase 03-01]: Steam script uses read-patch-write (not full overwrite) — preserves GitHub data written by prior workflow step
+- [Phase 03-01]: On Steam fetch failure steam_ok=false but existing steam data preserved — last good state survives transient errors
+- [Phase 03-01]: parseInt(player.gameid, 10) required for appid matching — GetPlayerSummaries gameid is string, owned game appid is number
 
 ### Pending Todos
 
@@ -74,6 +77,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-17
-Stopped at: Phase 2 complete — all 3 plans executed; ready to begin Phase 3 (Steam gaming)
-Resume file: .planning/phases/03-steam-gaming/ (next phase)
+Last session: 2026-03-18
+Stopped at: Completed 03-01-PLAN.md — Steam fetch script and workflow step done; ready for Plan 2 (GamingSection component)
+Resume file: .planning/phases/03-steam-pipeline/03-02-PLAN.md
