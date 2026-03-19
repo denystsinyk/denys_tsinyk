@@ -1,8 +1,10 @@
+import { FaSteam } from 'react-icons/fa'
 import type { SteamData, SteamGame } from '../types/data'
 
 interface GamingSectionProps {
   steamData: SteamData
   steamOk: boolean
+  isStale: boolean
 }
 
 function capsuleUrl(appid: number): string {
@@ -15,16 +17,16 @@ function formatHours(playtimeMinutes: number): string {
   return `${formatted} hours played`
 }
 
-function GameCard({ game, isPlaying }: { game: SteamGame; isPlaying: boolean }) {
+function GameCard({ game, isPlaying, isStale }: { game: SteamGame; isPlaying: boolean; isStale: boolean }) {
   return (
     <a
       href={`https://store.steampowered.com/app/${game.appid}`}
       target="_blank"
       rel="noopener noreferrer"
+      className="game-card"
       style={{
         display: 'block',
         flexShrink: 0,
-        width: '184px',
         border: isPlaying ? '1px solid var(--color-accent)' : '1px solid var(--color-divider)',
         boxShadow: isPlaying ? '0 0 12px rgba(0,255,0,0.3)' : 'none',
         borderRadius: 4,
@@ -32,6 +34,17 @@ function GameCard({ game, isPlaying }: { game: SteamGame; isPlaying: boolean }) 
         position: 'relative',
         textDecoration: 'none',
         color: 'inherit',
+        transition: 'transform 0.15s ease, box-shadow 0.15s ease',
+      }}
+      onMouseEnter={e => {
+        const el = e.currentTarget as HTMLElement
+        el.style.transform = 'scale(1.04)'
+        el.style.boxShadow = '0 0 14px rgba(0,255,0,0.35)'
+      }}
+      onMouseLeave={e => {
+        const el = e.currentTarget as HTMLElement
+        el.style.transform = 'scale(1)'
+        el.style.boxShadow = isPlaying ? '0 0 12px rgba(0,255,0,0.3)' : 'none'
       }}
     >
       <img
@@ -40,7 +53,7 @@ function GameCard({ game, isPlaying }: { game: SteamGame; isPlaying: boolean }) 
         style={{ display: 'block', width: '100%', height: 'auto' }}
       />
 
-      {isPlaying && (
+      {isPlaying && !isStale && (
         <div
           style={{
             position: 'absolute',
@@ -104,11 +117,12 @@ function GameCard({ game, isPlaying }: { game: SteamGame; isPlaying: boolean }) 
   )
 }
 
-export function GamingSection({ steamData, steamOk }: GamingSectionProps) {
+export function GamingSection({ steamData, steamOk, isStale }: GamingSectionProps) {
   if (!steamOk || steamData.top_games.length === 0) {
     return (
       <section className="py-8" style={{ borderTop: '1px solid var(--color-divider)' }}>
-        <h2 className="text-sm font-medium mb-4 opacity-50" style={{ color: 'var(--color-text)' }}>
+        <h2 className="text-sm font-medium mb-4 opacity-50" style={{ color: 'var(--color-text)', display: 'flex', alignItems: 'center', gap: 6 }}>
+          <FaSteam style={{ color: '#c7d5e0', flexShrink: 0 }} />
           GAMES
         </h2>
         <p className="text-sm opacity-40" style={{ color: 'var(--color-text)' }}>
@@ -119,27 +133,29 @@ export function GamingSection({ steamData, steamOk }: GamingSectionProps) {
   }
 
   const { top_games, currently_playing } = steamData
-  const currentlyPlayingAppId = currently_playing?.appid ?? null
+  const currentlyPlayingAppId = !isStale ? (currently_playing?.appid ?? null) : null
   const isCurrentInTop5 = top_games.some((g) => g.appid === currentlyPlayingAppId)
 
   return (
     <section className="py-8" style={{ borderTop: '1px solid var(--color-divider)' }}>
-      <h2 className="text-sm font-medium mb-4 opacity-50" style={{ color: 'var(--color-text)' }}>
+      <h2 className="text-sm font-medium mb-4 opacity-50" style={{ color: 'var(--color-text)', display: 'flex', alignItems: 'center', gap: 6 }}>
+        <FaSteam style={{ color: '#c7d5e0', flexShrink: 0 }} />
         GAMES
       </h2>
 
       {currently_playing && !isCurrentInTop5 && (
-        <div className="flex gap-3 overflow-x-auto pb-3 mb-4">
-          <GameCard game={currently_playing} isPlaying={true} />
+        <div className="flex gap-3 overflow-x-auto pb-3 mb-4 hide-scrollbar">
+          <GameCard game={currently_playing} isPlaying={true} isStale={isStale} />
         </div>
       )}
 
-      <div className="flex gap-3 overflow-x-auto pb-3">
+      <div className="flex gap-3 overflow-x-auto pb-3 hide-scrollbar">
         {top_games.map((game) => (
           <GameCard
             key={game.appid}
             game={game}
             isPlaying={game.appid === currentlyPlayingAppId}
+            isStale={isStale}
           />
         ))}
       </div>
