@@ -94,7 +94,11 @@ Plans:
   2. If data.json updated_at is more than 30 minutes old, the "PLAYING NOW" badge and pulse animation are suppressed so stale live-state indicators are never shown
   3. All sections render correctly on mobile viewport widths without horizontal overflow or broken layouts
   4. Typography is consistent: monospace font on all numeric data values (hours, stats), clean sans-serif on all prose and labels
-**Plans**: TBD
+**Plans**: 2 plans
+
+Plans:
+- [ ] 05-01-PLAN.md — GamingSection polish (hover, staleness, heading icon, scrollbar), App.tsx layout width + isStale wiring, GitHubStatsSection monospace, index.css responsive game-card class
+- [ ] 05-02-PLAN.md — Human visual verification checkpoint
 
 ## Progress
 
