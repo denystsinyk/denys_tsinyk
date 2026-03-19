@@ -4,6 +4,7 @@ import { Footer } from './components/Footer'
 import { ProjectsSection } from './components/ProjectsSection'
 import { GitHubStatsSection } from './components/GitHubStatsSection'
 import { GamingSection } from './components/GamingSection'
+import { MusicSection } from './components/MusicSection'
 import { useData } from './hooks/useData'
 
 function App() {
@@ -25,12 +26,7 @@ function App() {
 
             <GamingSection steamData={data.steam} steamOk={data.steam_ok} />
 
-            {/* Spotify section placeholder — Phase 4 will replace this */}
-            {!data.spotify_ok && (
-              <section className="py-8" style={{ borderTop: '1px solid var(--color-divider)' }}>
-                <p className="text-sm opacity-40" style={{ color: 'var(--color-text)' }}>Music unavailable</p>
-              </section>
-            )}
+            <MusicSection spotifyData={data.spotify} spotifyOk={data.spotify_ok} />
 
             <Footer updatedAt={data.updated_at} />
           </>
