@@ -5,14 +5,14 @@
 See: .planning/PROJECT.md (updated 2026-03-16)
 
 **Core value:** A live dashboard of Denys's real-world activity — not a resume, but a window into what he's building, playing, and listening to right now.
-**Current focus:** Phase 3 — Steam Pipeline
+**Current focus:** Phase 4 — Spotify Integration
 
 ## Current Position
 
-Phase: 3 of 5 (Steam Pipeline)
-Plan: 3 of 3 in current phase — COMPLETE
-Status: Phase 3 fully complete — GamingSection wired into App.tsx, GAMES section renders with fallback; ready for Phase 4 (Spotify Pipeline)
-Last activity: 2026-03-18 — App.tsx wiring complete; 03-03-SUMMARY.md finalized
+Phase: 4 of 5 (Spotify Integration)
+Plan: 2 of 3 in current phase — in progress
+Status: Phase 4 plan 2 complete — MusicSection wired into App.tsx with snap-scroll track row and fallback; ready for Phase 4 plan 3
+Last activity: 2026-03-19 — MusicSection created and wired; 04-02-SUMMARY.md finalized
 
 Progress: [█████████░] 90%
 
@@ -36,6 +36,7 @@ Progress: [█████████░] 90%
 
 *Updated after each plan completion*
 | Phase 02-data-contract-github-stats P03 | 5 | 2 tasks | 4 files |
+| Phase 04-spotify-integration P02 | 2 | 2 tasks | 3 files |
 
 ## Accumulated Context
 
@@ -68,6 +69,9 @@ Recent decisions affecting current work:
 - [Phase 03-01]: On Steam fetch failure steam_ok=false but existing steam data preserved — last good state survives transient errors
 - [Phase 03-01]: parseInt(player.gameid, 10) required for appid matching — GetPlayerSummaries gameid is string, owned game appid is number
 - [Phase 03-03]: GamingSection handles steam_ok=false fallback internally — App.tsx renders unconditionally, no wrapper conditional needed
+- [Phase 04-02]: MusicSection handles its own fallback internally — App.tsx renders unconditionally, matching GamingSection pattern
+- [Phase 04-02]: TrackCard is an <a> tag so each card is a native link to spotify_url, no JS navigation needed
+- [Phase 04-02]: paddingRight: 24 for peek effect — horizontal snap-scroll row with scrollSnapType:x mandatory and per-card scrollSnapAlign:start
 
 ### Pending Todos
 
@@ -80,6 +84,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-18
-Stopped at: Completed 03-03-PLAN.md — GamingSection wired into App.tsx, Phase 3 complete; ready for Phase 4 (Spotify Pipeline)
-Resume file: .planning/phases/04-spotify-pipeline/ (next phase)
+Last session: 2026-03-19
+Stopped at: Completed 04-02-PLAN.md — MusicSection wired into App.tsx, Phase 4 plan 2 complete; ready for Phase 4 plan 3
+Resume file: .planning/phases/04-spotify-integration/ (current phase)

@@ -28,9 +28,9 @@
 
 ### Music
 
-- [ ] **MUSC-01**: User sees last 5 Spotify-listened tracks displayed as a horizontal scrollable row with square album art, track name, and artist name below each
-- [ ] **MUSC-02**: Each track is clickable and opens the Spotify track URL in a new tab
-- [ ] **MUSC-03**: If Spotify data is unavailable or the track array is empty, a graceful fallback state is shown instead of a blank section
+- [x] **MUSC-01**: User sees last 5 Spotify-listened tracks displayed as a horizontal scrollable row with square album art, track name, and artist name below each
+- [x] **MUSC-02**: Each track is clickable and opens the Spotify track URL in a new tab
+- [x] **MUSC-03**: If Spotify data is unavailable or the track array is empty, a graceful fallback state is shown instead of a blank section
 
 ### Projects
 
@@ -98,9 +98,9 @@ Which phases cover which requirements. Updated during roadmap creation.
 | GAME-01 | Phase 3 | Complete |
 | GAME-02 | Phase 3 | Complete |
 | GAME-03 | Phase 3 | Complete |
-| MUSC-01 | Phase 4 | Pending |
-| MUSC-02 | Phase 4 | Pending |
-| MUSC-03 | Phase 4 | Pending |
+| MUSC-01 | Phase 4 | Complete |
+| MUSC-02 | Phase 4 | Complete |
+| MUSC-03 | Phase 4 | Complete |
 | GAME-04 | Phase 5 | Pending |
 
 **Coverage:**
