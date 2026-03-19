@@ -94,6 +94,8 @@ export function MusicSection({ spotifyData, spotifyOk }: MusicSectionProps) {
           overscrollBehaviorX: 'contain',
           paddingBottom: 8,
           paddingRight: 24,
+          minWidth: 0,
+          width: '100%',
         }}
       >
         {spotifyData.recent_tracks.map((track, i) => (

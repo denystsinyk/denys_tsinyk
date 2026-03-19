@@ -144,12 +144,12 @@ export function GamingSection({ steamData, steamOk, isStale }: GamingSectionProp
       </h2>
 
       {currently_playing && !isCurrentInTop5 && (
-        <div className="flex gap-3 overflow-x-auto pb-3 mb-4 hide-scrollbar">
+        <div className="flex gap-3 overflow-x-auto pb-3 mb-4 hide-scrollbar min-w-0 w-full">
           <GameCard game={currently_playing} isPlaying={true} isStale={isStale} />
         </div>
       )}
 
-      <div className="flex gap-3 overflow-x-auto pb-3 hide-scrollbar">
+      <div className="flex gap-3 overflow-x-auto pb-3 hide-scrollbar min-w-0 w-full">
         {top_games.map((game) => (
           <GameCard
             key={game.appid}
