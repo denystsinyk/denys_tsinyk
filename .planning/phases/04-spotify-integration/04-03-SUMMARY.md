@@ -97,6 +97,12 @@ Completed in this plan:
 - The cron-based refresh-data.yml will continue fetching Spotify recently-played tracks automatically
 - Phase 5 (Polish + Hardening) can begin: hover states on game covers, staleness suppression for PLAYING NOW badge, responsive refinements
 
+## Self-Check: PASSED
+
+- FOUND: .planning/phases/04-spotify-integration/04-03-SUMMARY.md
+- FOUND: .planning/STATE.md
+- FOUND: .planning/ROADMAP.md
+
 ---
 *Phase: 04-spotify-integration*
 *Completed: 2026-03-18*
