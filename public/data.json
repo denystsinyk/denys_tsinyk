@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-19T01:45:36.227Z",
+  "updated_at": "2026-03-19T01:57:42.368Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,6 +48,24 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "Bank Account",
+        "artist": "21 Savage",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2732719343298d0e4f1790e14cd",
+        "spotify_url": "https://open.spotify.com/track/5eqK0tbzUPo2SoeZsov04s"
+      },
+      {
+        "name": "Swang",
+        "artist": "Rae Sremmurd",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95",
+        "spotify_url": "https://open.spotify.com/track/6mapJIPnQ23RTAevUoE0DL"
+      },
+      {
+        "name": "goosebumps",
+        "artist": "Travis Scott",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2738752a7355996e64709247c53",
+        "spotify_url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
+      },
+      {
         "name": "goosebumps",
         "artist": "Travis Scott",
         "album_art": "https://i.scdn.co/image/ab67616d0000b2738752a7355996e64709247c53",
@@ -58,24 +76,6 @@
         "artist": "Luke Bryan",
         "album_art": "https://i.scdn.co/image/ab67616d0000b273dab325d38db91d858446d4b4",
         "spotify_url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
-      },
-      {
-        "name": "Neon Moon",
-        "artist": "Brooks & Dunn",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273cf1e09d6382993798b554242",
-        "spotify_url": "https://open.spotify.com/track/2M38X60UJnupGPbFTkVPNQ"
-      },
-      {
-        "name": "Alright",
-        "artist": "Darius Rucker",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2731e90756a9c3f69602642be47",
-        "spotify_url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
-      },
-      {
-        "name": "Night Shift",
-        "artist": "Jon Pardi",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27314d09c1ad67f2028764ee0f4",
-        "spotify_url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
       }
     ],
     "currently_playing": null
