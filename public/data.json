@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-19T15:08:18.528Z",
+  "updated_at": "2026-03-19T16:06:52.872Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,6 +48,12 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "Roses",
+        "artist": "The Chainsmokers",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2738d2cfad007b9431f48aef135",
+        "spotify_url": "https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z"
+      },
+      {
         "name": "Something Just Like This",
         "artist": "The Chainsmokers",
         "album_art": "https://i.scdn.co/image/ab67616d0000b2730c13d3d5a503c84fcc60ae94",
@@ -70,12 +76,6 @@
         "artist": "Nelly Furtado",
         "album_art": "https://i.scdn.co/image/ab67616d0000b273a6f439c8957170652f9410e2",
         "spotify_url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
-      },
-      {
-        "name": "Pump It",
-        "artist": "Black Eyed Peas",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273c6710b4a52539506c30e5354",
-        "spotify_url": "https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L"
       }
     ],
     "currently_playing": null
