@@ -111,4 +111,4 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5
 | 2. Data Contract + GitHub Stats | 3/3 | Complete   | 2026-03-17 |
 | 3. Steam Pipeline | 2/3 | In Progress|  |
 | 4. Spotify Integration | 3/3 | Complete   | 2026-03-18 |
-| 5. Polish + Hardening | 0/TBD | Not started | - |
+| 5. Polish + Hardening | 1/2 | In Progress|  |

@@ -10,11 +10,11 @@ See: .planning/PROJECT.md (updated 2026-03-16)
 ## Current Position
 
 Phase: 5 of 5 (Polish + Hardening)
-Plan: 0 of TBD in current phase — not started
-Status: Phase 4 complete — Spotify OAuth verified in production, live site confirmed showing 5 real tracks; ready for Phase 5
-Last activity: 2026-03-18 — Phase 4 end-to-end verification complete; 04-03-SUMMARY.md finalized
+Plan: 1 of 2 in current phase
+Status: Phase 5 in progress — 05-01 complete (visual polish: hover, staleness, FaSteam icon, responsive cards, monospace)
+Last activity: 2026-03-19 — 05-01-SUMMARY.md finalized; visual refinements across GamingSection, App.tsx, GitHubStatsSection, index.css
 
-Progress: [█████████░] 95%
+Progress: [█████████░] 97%
 
 ## Performance Metrics
 
@@ -79,6 +79,9 @@ Recent decisions affecting current work:
 - [Phase 04-02]: TrackCard is an <a> tag so each card is a native link to spotify_url, no JS navigation needed
 - [Phase 04-02]: paddingRight: 24 for peek effect — horizontal snap-scroll row with scrollSnapType:x mandatory and per-card scrollSnapAlign:start
 - [Phase 04-03]: Spotify OAuth completed successfully — refresh token valid and stored in GitHub Secrets; pipeline confirmed spotify_ok: true with 5 tracks
+- [Phase 05-01]: onMouseLeave restores boxShadow to playing glow not 'none' — unconditional reset breaks live indicator on any mouse-leave
+- [Phase 05-01]: currentlyPlayingAppId guarded by isStale at derivation time — both badge JSX and derivation for defense in depth
+- [Phase 05-01]: game-card CSS class (not inline style) for responsive width — inline style cannot be overridden by @media queries
 
 ### Pending Todos
 
@@ -92,5 +95,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-03-18
-Stopped at: Completed 04-03-PLAN.md — Phase 4 fully verified in production (Spotify OAuth working, live MusicSection confirmed); ready for Phase 5
-Resume file: .planning/phases/05-polish-hardening/ (next phase)
+Stopped at: Completed 05-01-PLAN.md — visual refinements complete (hover effects, staleness gating, FaSteam heading, responsive card width, monospace typography)
+Resume file: .planning/phases/05-polish-hardening/05-02-PLAN.md
