@@ -3,6 +3,7 @@ name: Refresh Data
 on:
   schedule:
     - cron: '*/10 * * * *'   # every 10 minutes (GitHub minimum is 5 min)
+  workflow_dispatch:
 
 permissions:
   contents: write             # required for git push back to main
