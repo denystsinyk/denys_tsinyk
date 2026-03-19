@@ -36,6 +36,7 @@ Progress: [█████████░] 90%
 
 *Updated after each plan completion*
 | Phase 02-data-contract-github-stats P03 | 5 | 2 tasks | 4 files |
+| Phase 04-spotify-integration P01 | 2 | 2 tasks | 3 files |
 | Phase 04-spotify-integration P02 | 2 | 2 tasks | 3 files |
 
 ## Accumulated Context
@@ -69,6 +70,10 @@ Recent decisions affecting current work:
 - [Phase 03-01]: On Steam fetch failure steam_ok=false but existing steam data preserved — last good state survives transient errors
 - [Phase 03-01]: parseInt(player.gameid, 10) required for appid matching — GetPlayerSummaries gameid is string, owned game appid is number
 - [Phase 03-03]: GamingSection handles steam_ok=false fallback internally — App.tsx renders unconditionally, no wrapper conditional needed
+- [Phase 04-01]: Spotify script uses read-patch-write (not full overwrite) — same pattern as Steam script, preserves GitHub/Steam data
+- [Phase 04-01]: On Spotify fetch failure spotify_ok=false but existing spotify data preserved — last good state survives transient errors
+- [Phase 04-01]: currently_playing: null always in Spotify data — Phase 4 spec defers currently-playing music indicator to v2
+- [Phase 04-01]: Refresh token rotation handled as console.warn only — GitHub Secrets cannot be auto-updated from pipeline
 - [Phase 04-02]: MusicSection handles its own fallback internally — App.tsx renders unconditionally, matching GamingSection pattern
 - [Phase 04-02]: TrackCard is an <a> tag so each card is a native link to spotify_url, no JS navigation needed
 - [Phase 04-02]: paddingRight: 24 for peek effect — horizontal snap-scroll row with scrollSnapType:x mandatory and per-card scrollSnapAlign:start
@@ -80,7 +85,7 @@ None yet.
 ### Blockers/Concerns
 
 - [Phase 3 prereq]: Steam profile privacy for Steam ID 76561198275331284 must be confirmed as "Public > Game details" before Steam fetch script can be tested. This is a user-account setting, not a code problem.
-- [Phase 4 prereq]: Spotify refresh token initial setup requires a one-time manual OAuth flow to generate the refresh token. Needs a clear runbook before starting Phase 4.
+- [Phase 4 prereq]: Spotify refresh token initial setup requires a one-time manual OAuth flow to generate the refresh token — RUNBOOK-spotify-token.md created in Phase 4 Plan 1.
 
 ## Session Continuity
 
