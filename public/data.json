@@ -1,27 +1,48 @@
 {
-  "updated_at": "2026-01-01T00:00:00.000Z",
-  "steam_ok": false,
+  "updated_at": "2026-03-19T01:41:17.349Z",
+  "steam_ok": true,
   "spotify_ok": false,
   "github": {
-    "pinned_repos": [
-      {
-        "name": "example-repo",
-        "description": "An example pinned repository",
-        "url": "https://github.com/example/example-repo",
-        "stargazerCount": 0,
-        "primaryLanguage": { "name": "TypeScript", "color": "#3178c6" }
-      }
-    ],
+    "pinned_repos": [],
     "stats": {
-      "topLanguages": [
-        { "name": "TypeScript", "color": "#3178c6", "count": 1 }
-      ],
-      "contributionStreak": 0,
-      "totalContributionsThisYear": 0
+      "topLanguages": [],
+      "contributionStreak": 3,
+      "totalContributionsThisYear": 347
     }
   },
   "steam": {
-    "top_games": [],
+    "top_games": [
+      {
+        "appid": 252490,
+        "name": "Rust",
+        "playtime_forever": 189998,
+        "img_icon_url": "820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c"
+      },
+      {
+        "appid": 359550,
+        "name": "Tom Clancy's Rainbow Six Siege",
+        "playtime_forever": 35531,
+        "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e"
+      },
+      {
+        "appid": 252950,
+        "name": "Rocket League",
+        "playtime_forever": 15211,
+        "img_icon_url": "9ad6dd3d173523354385955b5fb2af87639c4163"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 7903,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 945360,
+        "name": "Among Us",
+        "playtime_forever": 1687,
+        "img_icon_url": "b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801"
+      }
+    ],
     "currently_playing": null
   },
   "spotify": {
