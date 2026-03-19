@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-19T16:06:52.872Z",
+  "updated_at": "2026-03-19T17:12:15.901Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,6 +48,12 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "Bad and Boujee (feat. Lil Uzi Vert)",
+        "artist": "Migos",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2736275aeac316378b0dd4f31fd",
+        "spotify_url": "https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1"
+      },
+      {
         "name": "Roses",
         "artist": "The Chainsmokers",
         "album_art": "https://i.scdn.co/image/ab67616d0000b2738d2cfad007b9431f48aef135",
@@ -70,12 +76,6 @@
         "artist": "Rihanna",
         "album_art": "https://i.scdn.co/image/ab67616d0000b27331548865f7c729290b96c794",
         "spotify_url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
-      },
-      {
-        "name": "Promiscuous",
-        "artist": "Nelly Furtado",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273a6f439c8957170652f9410e2",
-        "spotify_url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
       }
     ],
     "currently_playing": null
