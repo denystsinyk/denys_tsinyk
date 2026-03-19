@@ -8,11 +8,11 @@ import { MusicSection } from './components/MusicSection'
 import { useData } from './hooks/useData'
 
 function App() {
-  const { data, loading, error } = useData()
+  const { data, loading, error, isStale } = useData()
 
   return (
     <div style={{ backgroundColor: 'var(--color-bg)', minHeight: '100vh' }}>
-      <main className="max-w-2xl mx-auto px-6 py-12">
+      <main className="max-w-4xl mx-auto px-6 py-12">
         <HeroSection name="Denys Tsinyk" />
         <WorkSection />
 
@@ -24,7 +24,7 @@ function App() {
             <ProjectsSection repos={data.github.pinned_repos} />
             <GitHubStatsSection stats={data.github.stats} />
 
-            <GamingSection steamData={data.steam} steamOk={data.steam_ok} />
+            <GamingSection steamData={data.steam} steamOk={data.steam_ok} isStale={isStale} />
 
             <MusicSection spotifyData={data.spotify} spotifyOk={data.spotify_ok} />
 
