@@ -50,7 +50,10 @@ export function GitHubStatsSection({ stats }: GitHubStatsSectionProps) {
           day streak
         </p>
         <p className="text-xs mt-1 opacity-40" style={{ color: 'var(--color-text)' }}>
-          {stats.totalContributionsThisYear} contributions this year
+          <span style={{ fontFamily: 'var(--font-mono)' }}>
+            {stats.totalContributionsThisYear}
+          </span>{' '}
+          contributions this year
         </p>
       </div>
     </section>

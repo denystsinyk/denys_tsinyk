@@ -36,3 +36,13 @@ body {
 .hide-scrollbar::-webkit-scrollbar { display: none; }     /* Chrome/Safari */
 .hide-scrollbar { -ms-overflow-style: none; }              /* IE/Edge */
 .hide-scrollbar { scrollbar-width: none; }                 /* Firefox */
+
+/* Game card responsive width — 184px desktop, 234px mobile (~1.5 cards at 375px) */
+.game-card {
+  width: 184px;
+}
+@media (max-width: 768px) {
+  .game-card {
+    width: 234px;
+  }
+}
