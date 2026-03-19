@@ -9,12 +9,12 @@ See: .planning/PROJECT.md (updated 2026-03-16)
 
 ## Current Position
 
-Phase: 4 of 5 (Spotify Integration)
-Plan: 2 of 3 in current phase — in progress
-Status: Phase 4 plan 2 complete — MusicSection wired into App.tsx with snap-scroll track row and fallback; ready for Phase 4 plan 3
-Last activity: 2026-03-19 — MusicSection created and wired; 04-02-SUMMARY.md finalized
+Phase: 5 of 5 (Polish + Hardening)
+Plan: 0 of TBD in current phase — not started
+Status: Phase 4 complete — Spotify OAuth verified in production, live site confirmed showing 5 real tracks; ready for Phase 5
+Last activity: 2026-03-18 — Phase 4 end-to-end verification complete; 04-03-SUMMARY.md finalized
 
-Progress: [█████████░] 90%
+Progress: [█████████░] 95%
 
 ## Performance Metrics
 
@@ -38,6 +38,7 @@ Progress: [█████████░] 90%
 | Phase 02-data-contract-github-stats P03 | 5 | 2 tasks | 4 files |
 | Phase 04-spotify-integration P01 | 2 | 2 tasks | 3 files |
 | Phase 04-spotify-integration P02 | 2 | 2 tasks | 3 files |
+| Phase 04-spotify-integration P03 | human-gated | 2 tasks | 0 files |
 
 ## Accumulated Context
 
@@ -77,6 +78,7 @@ Recent decisions affecting current work:
 - [Phase 04-02]: MusicSection handles its own fallback internally — App.tsx renders unconditionally, matching GamingSection pattern
 - [Phase 04-02]: TrackCard is an <a> tag so each card is a native link to spotify_url, no JS navigation needed
 - [Phase 04-02]: paddingRight: 24 for peek effect — horizontal snap-scroll row with scrollSnapType:x mandatory and per-card scrollSnapAlign:start
+- [Phase 04-03]: Spotify OAuth completed successfully — refresh token valid and stored in GitHub Secrets; pipeline confirmed spotify_ok: true with 5 tracks
 
 ### Pending Todos
 
@@ -89,6 +91,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-19
-Stopped at: Completed 04-02-PLAN.md — MusicSection wired into App.tsx, Phase 4 plan 2 complete; ready for Phase 4 plan 3
-Resume file: .planning/phases/04-spotify-integration/ (current phase)
+Last session: 2026-03-18
+Stopped at: Completed 04-03-PLAN.md — Phase 4 fully verified in production (Spotify OAuth working, live MusicSection confirmed); ready for Phase 5
+Resume file: .planning/phases/05-polish-hardening/ (next phase)

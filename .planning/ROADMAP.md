@@ -15,7 +15,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 - [x] **Phase 1: Foundation** - Deploy a real URL with static portfolio content before any API work begins (completed 2026-03-17)
 - [x] **Phase 2: Data Contract + GitHub Stats** - Define the data.json schema and validate the full data pipeline with GitHub's public API (completed 2026-03-17)
 - [ ] **Phase 3: Steam Pipeline** - Wire up the Actions cron, Steam API, and render the gaming section with live "PLAYING NOW" detection
-- [ ] **Phase 4: Spotify Integration** - Add the Spotify fetch module with OAuth refresh-token handling and render the music section
+- [x] **Phase 4: Spotify Integration** - Add the Spotify fetch module with OAuth refresh-token handling and render the music section (completed 2026-03-18)
 - [ ] **Phase 5: Polish + Hardening** - Add hover states, staleness suppression, responsive refinements, and visual consistency pass
 
 ## Phase Details
@@ -81,9 +81,9 @@ Plans:
 **Plans**: 3 plans
 
 Plans:
-- [ ] 04-01-PLAN.md — Spotify pipeline script (fetch-spotify-data.js), refresh-data.yml step, OAuth runbook
-- [ ] 04-02-PLAN.md — MusicSection component, .hide-scrollbar CSS, App.tsx wiring (replace placeholder)
-- [ ] 04-03-PLAN.md — Human checkpoint: OAuth secrets setup + visual verification
+- [x] 04-01-PLAN.md — Spotify pipeline script (fetch-spotify-data.js), refresh-data.yml step, OAuth runbook
+- [x] 04-02-PLAN.md — MusicSection component, .hide-scrollbar CSS, App.tsx wiring (replace placeholder)
+- [x] 04-03-PLAN.md — Human checkpoint: OAuth secrets setup + visual verification
 
 ### Phase 5: Polish + Hardening
 **Goal**: All interactive and visual refinements are applied consistently across sections — hover states on game covers, staleness suppression of live indicators, and responsive layout pass — completing the portfolio's brutalist aesthetic
@@ -106,5 +106,5 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5
 | 1. Foundation | 2/2 | Complete   | 2026-03-17 |
 | 2. Data Contract + GitHub Stats | 3/3 | Complete   | 2026-03-17 |
 | 3. Steam Pipeline | 2/3 | In Progress|  |
-| 4. Spotify Integration | 2/3 | In Progress|  |
+| 4. Spotify Integration | 3/3 | Complete   | 2026-03-18 |
 | 5. Polish + Hardening | 0/TBD | Not started | - |
