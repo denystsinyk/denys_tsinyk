@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-19T14:12:22.911Z",
+  "updated_at": "2026-03-19T15:08:18.528Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
-        "name": "The Sweet Escape",
-        "artist": "Gwen Stefani",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2738dd53da15b55d402dfc3a20e",
-        "spotify_url": "https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH"
+        "name": "Something Just Like This",
+        "artist": "The Chainsmokers",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2730c13d3d5a503c84fcc60ae94",
+        "spotify_url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
       },
       {
-        "name": "Bank Account",
-        "artist": "21 Savage",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2732719343298d0e4f1790e14cd",
-        "spotify_url": "https://open.spotify.com/track/5eqK0tbzUPo2SoeZsov04s"
+        "name": "Just Dance",
+        "artist": "Lady Gaga",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0",
+        "spotify_url": "https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE"
       },
       {
-        "name": "Swang",
-        "artist": "Rae Sremmurd",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95",
-        "spotify_url": "https://open.spotify.com/track/6mapJIPnQ23RTAevUoE0DL"
+        "name": "S&M",
+        "artist": "Rihanna",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27331548865f7c729290b96c794",
+        "spotify_url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
       },
       {
-        "name": "goosebumps",
-        "artist": "Travis Scott",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2738752a7355996e64709247c53",
-        "spotify_url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
+        "name": "Promiscuous",
+        "artist": "Nelly Furtado",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273a6f439c8957170652f9410e2",
+        "spotify_url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
       },
       {
-        "name": "goosebumps",
-        "artist": "Travis Scott",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2738752a7355996e64709247c53",
-        "spotify_url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
+        "name": "Pump It",
+        "artist": "Black Eyed Peas",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273c6710b4a52539506c30e5354",
+        "spotify_url": "https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L"
       }
     ],
     "currently_playing": null
