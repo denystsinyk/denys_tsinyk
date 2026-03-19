@@ -16,7 +16,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 - [x] **Phase 2: Data Contract + GitHub Stats** - Define the data.json schema and validate the full data pipeline with GitHub's public API (completed 2026-03-17)
 - [ ] **Phase 3: Steam Pipeline** - Wire up the Actions cron, Steam API, and render the gaming section with live "PLAYING NOW" detection
 - [x] **Phase 4: Spotify Integration** - Add the Spotify fetch module with OAuth refresh-token handling and render the music section (completed 2026-03-18)
-- [ ] **Phase 5: Polish + Hardening** - Add hover states, staleness suppression, responsive refinements, and visual consistency pass
+- [x] **Phase 5: Polish + Hardening** - Add hover states, staleness suppression, responsive refinements, and visual consistency pass (completed 2026-03-19)
 
 ## Phase Details
 
@@ -111,4 +111,4 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5
 | 2. Data Contract + GitHub Stats | 3/3 | Complete   | 2026-03-17 |
 | 3. Steam Pipeline | 2/3 | In Progress|  |
 | 4. Spotify Integration | 3/3 | Complete   | 2026-03-18 |
-| 5. Polish + Hardening | 1/2 | In Progress|  |
+| 5. Polish + Hardening | 2/2 | Complete   | 2026-03-19 |

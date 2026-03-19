@@ -5,16 +5,16 @@
 See: .planning/PROJECT.md (updated 2026-03-16)
 
 **Core value:** A live dashboard of Denys's real-world activity — not a resume, but a window into what he's building, playing, and listening to right now.
-**Current focus:** Phase 4 — Spotify Integration
+**Current focus:** Phase 5 complete — project v1 done
 
 ## Current Position
 
 Phase: 5 of 5 (Polish + Hardening)
-Plan: 1 of 2 in current phase
-Status: Phase 5 in progress — 05-01 complete (visual polish: hover, staleness, FaSteam icon, responsive cards, monospace)
-Last activity: 2026-03-19 — 05-01-SUMMARY.md finalized; visual refinements across GamingSection, App.tsx, GitHubStatsSection, index.css
+Plan: 2 of 2 in current phase — COMPLETE
+Status: Phase 5 complete — all v1 requirements satisfied; 05-02 human verification passed (all 7 visual checks ok)
+Last activity: 2026-03-18 — 05-02-SUMMARY.md finalized; human visual sign-off on hover effects, staleness gating, FaSteam icon, no scrollbar, wider layout, mobile peek, monospace typography
 
-Progress: [█████████░] 97%
+Progress: [██████████] 100%
 
 ## Performance Metrics
 
@@ -82,6 +82,7 @@ Recent decisions affecting current work:
 - [Phase 05-01]: onMouseLeave restores boxShadow to playing glow not 'none' — unconditional reset breaks live indicator on any mouse-leave
 - [Phase 05-01]: currentlyPlayingAppId guarded by isStale at derivation time — both badge JSX and derivation for defense in depth
 - [Phase 05-01]: game-card CSS class (not inline style) for responsive width — inline style cannot be overridden by @media queries
+- [Phase 05-02]: All 7 Phase 5 visual checks passed on first human review — no remediation required; project v1 complete
 
 ### Pending Todos
 
@@ -95,5 +96,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-03-18
-Stopped at: Completed 05-01-PLAN.md — visual refinements complete (hover effects, staleness gating, FaSteam heading, responsive card width, monospace typography)
-Resume file: .planning/phases/05-polish-hardening/05-02-PLAN.md
+Stopped at: Completed 05-02-PLAN.md — human visual verification passed; Phase 5 and project v1 complete
+Resume file: None — all phases complete
