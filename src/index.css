@@ -31,3 +31,8 @@ body {
   animation: pulse-dot 1.4s ease-in-out infinite;
   flex-shrink: 0;
 }
+
+/* Horizontal scrollbar hide — cross-browser */
+.hide-scrollbar::-webkit-scrollbar { display: none; }     /* Chrome/Safari */
+.hide-scrollbar { -ms-overflow-style: none; }              /* IE/Edge */
+.hide-scrollbar { scrollbar-width: none; }                 /* Firefox */
