@@ -11,7 +11,7 @@ function App() {
   const { data, loading, error, isStale } = useData()
 
   return (
-    <div style={{ backgroundColor: 'var(--color-bg)', minHeight: '100vh' }}>
+    <div style={{ backgroundColor: 'var(--color-bg)', minHeight: '100vh', overflowX: 'hidden' }}>
       <main className="max-w-4xl mx-auto px-6 py-12">
         <HeroSection name="Denys Tsinyk" />
         <WorkSection />
