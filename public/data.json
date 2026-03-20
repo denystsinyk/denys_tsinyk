@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T00:02:25.815Z",
+  "updated_at": "2026-03-20T02:51:53.687Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
-        "name": "Bad and Boujee (feat. Lil Uzi Vert)",
-        "artist": "Migos",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2736275aeac316378b0dd4f31fd",
-        "spotify_url": "https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1"
+        "name": "High And Low",
+        "artist": "Empire Of The Sun",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273656928563a0d1008d6bfbe4a",
+        "spotify_url": "https://open.spotify.com/track/34WI9hCaE3AzbOYT9wFXLP"
       },
       {
-        "name": "Roses",
+        "name": "Closer",
         "artist": "The Chainsmokers",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2738d2cfad007b9431f48aef135",
-        "spotify_url": "https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z"
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453",
+        "spotify_url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
       },
       {
-        "name": "Something Just Like This",
-        "artist": "The Chainsmokers",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2730c13d3d5a503c84fcc60ae94",
-        "spotify_url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
+        "name": "Maps",
+        "artist": "Maroon 5",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c",
+        "spotify_url": "https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc"
       },
       {
-        "name": "Just Dance",
-        "artist": "Lady Gaga",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0",
-        "spotify_url": "https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE"
+        "name": "Feel So Close - Radio Edit",
+        "artist": "Calvin Harris",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273dcef905cb144d4867119850b",
+        "spotify_url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
       },
       {
-        "name": "S&M",
-        "artist": "Rihanna",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27331548865f7c729290b96c794",
-        "spotify_url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
+        "name": "Starships",
+        "artist": "Nicki Minaj",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27385235715597dcd07bb9e0f84",
+        "spotify_url": "https://open.spotify.com/track/1oHNvJVbFkexQc0BpQp7Y4"
       }
     ],
     "currently_playing": null
