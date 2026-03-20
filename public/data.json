@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T15:55:46.074Z",
+  "updated_at": "2026-03-20T16:41:38.235Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
-        "name": "ATM",
+        "name": "What I Want (feat. Tate McRae)",
+        "artist": "Morgan Wallen",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27335ea219ce47813b5e2dc3745",
+        "spotify_url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
+      },
+      {
+        "name": "Wrapped Around Your Finger",
+        "artist": "Post Malone",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97",
+        "spotify_url": "https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX"
+      },
+      {
+        "name": "Retail Therapy",
+        "artist": "ARDN",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2734fb1be489c17ce80063d040c",
+        "spotify_url": "https://open.spotify.com/track/1HEAMLjCTehb8w0AJFCaka"
+      },
+      {
+        "name": "FWU",
         "artist": "Don Toliver",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-        "spotify_url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu"
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273867fbde5755d14967df3e7d5",
+        "spotify_url": "https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT"
       },
       {
-        "name": "The Way Life Goes (feat. Oh Wonder)",
-        "artist": "Lil Uzi Vert",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273f23aee9d3be9fcbca1bc6352",
-        "spotify_url": "https://open.spotify.com/track/2eAZfqOm4EnOF9VvN50Tyc"
-      },
-      {
-        "name": "DAISIES",
-        "artist": "Justin Bieber",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273d65c4773bc5061fd27facc5b",
-        "spotify_url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-      },
-      {
-        "name": "YOU",
+        "name": "THE MOMENT (feat. Clara La San)",
         "artist": "The Kid LAROI",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2732a182fb516812ea67edde2b8",
-        "spotify_url": "https://open.spotify.com/track/45VihpAEU7N6LS6BK4XZpb"
-      },
-      {
-        "name": "My Winter",
-        "artist": "Jack Harlow",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27331646844acc328f1aac59fea",
-        "spotify_url": "https://open.spotify.com/track/0IxV9BTN4mFo7LBO4hP5se"
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2734ee3d2ae694b3b78125a5443",
+        "spotify_url": "https://open.spotify.com/track/4DXMv0U07Qc8c4pUZVMEmE"
       }
     ],
     "currently_playing": null
