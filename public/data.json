@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T13:22:36.755Z",
+  "updated_at": "2026-03-20T14:11:15.678Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
-        "name": "again",
-        "artist": "Gunna",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27303a253cffd6d9e556ef4eec5",
-        "spotify_url": "https://open.spotify.com/track/7FwgafuJFYX2M5CrEVfN4M"
+        "name": "I'M SO IN LOVE WITH YOU",
+        "artist": "The Kid LAROI",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2734ee3d2ae694b3b78125a5443",
+        "spotify_url": "https://open.spotify.com/track/5mSjVVGPv8zUsjfMuSxPRP"
       },
       {
-        "name": "16",
-        "artist": "Baby Keem",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27335a8a0c8b82b525679eceda6",
-        "spotify_url": "https://open.spotify.com/track/1Is8hGpkGMiePASAxBluxM"
-      },
-      {
-        "name": "Hours In Silence",
-        "artist": "Drake",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27302854a7060fccc1a66a4b5ad",
-        "spotify_url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
-      },
-      {
-        "name": "Trade Places",
+        "name": "Living Alone",
         "artist": "Jack Harlow",
         "album_art": "https://i.scdn.co/image/ab67616d0000b27331646844acc328f1aac59fea",
-        "spotify_url": "https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh"
+        "spotify_url": "https://open.spotify.com/track/6f4umZL8qLZeY2p9Qc3iGy"
       },
       {
-        "name": "TMU",
+        "name": "Call Back",
         "artist": "Don Toliver",
         "album_art": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-        "spotify_url": "https://open.spotify.com/track/588gFLoYJdlQ9zLSuR3IpJ"
+        "spotify_url": "https://open.spotify.com/track/16yVaWo0Gmvs2wlnmJbcH7"
+      },
+      {
+        "name": "forever be mine (feat. Wizkid)",
+        "artist": "Gunna",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27303a253cffd6d9e556ef4eec5",
+        "spotify_url": "https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj"
+      },
+      {
+        "name": "Boys Don’t Cry",
+        "artist": "Lil Tecca",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
+        "spotify_url": "https://open.spotify.com/track/6aCzWpIVNoaT8OTeQ3w8If"
       }
     ],
     "currently_playing": null
