@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T14:11:15.678Z",
+  "updated_at": "2026-03-20T15:09:06.857Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
-        "name": "I'M SO IN LOVE WITH YOU",
-        "artist": "The Kid LAROI",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2734ee3d2ae694b3b78125a5443",
-        "spotify_url": "https://open.spotify.com/track/5mSjVVGPv8zUsjfMuSxPRP"
+        "name": "one percent",
+        "artist": "Steele 11",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2739645927d33a3c75332a56a79",
+        "spotify_url": "https://open.spotify.com/track/6OulmGAyF3d9rslvN6n7NY"
       },
       {
-        "name": "Living Alone",
+        "name": "DOG HOUSE (feat. Julia Wolf & Yeat)",
+        "artist": "Drake",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2739c2ab979bbe25f3d9e21f698",
+        "spotify_url": "https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la"
+      },
+      {
+        "name": "Say Hello",
         "artist": "Jack Harlow",
         "album_art": "https://i.scdn.co/image/ab67616d0000b27331646844acc328f1aac59fea",
-        "spotify_url": "https://open.spotify.com/track/6f4umZL8qLZeY2p9Qc3iGy"
+        "spotify_url": "https://open.spotify.com/track/2DXZpuKsRuC3I3bpV7YTv6"
       },
       {
-        "name": "Call Back",
+        "name": "HATRED",
+        "artist": "The Kid LAROI",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273a690d2e65a50a742f19939ea",
+        "spotify_url": "https://open.spotify.com/track/6PHPKgCfIFUx0WfA4GnHJx"
+      },
+      {
+        "name": "Long Way To Calabasas",
         "artist": "Don Toliver",
         "album_art": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-        "spotify_url": "https://open.spotify.com/track/16yVaWo0Gmvs2wlnmJbcH7"
-      },
-      {
-        "name": "forever be mine (feat. Wizkid)",
-        "artist": "Gunna",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27303a253cffd6d9e556ef4eec5",
-        "spotify_url": "https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj"
-      },
-      {
-        "name": "Boys Don’t Cry",
-        "artist": "Lil Tecca",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27386c8cd0e15776fa1e18715ec",
-        "spotify_url": "https://open.spotify.com/track/6aCzWpIVNoaT8OTeQ3w8If"
+        "spotify_url": "https://open.spotify.com/track/0FMAKUsgIBszj75WEENYDO"
       }
     ],
     "currently_playing": null
