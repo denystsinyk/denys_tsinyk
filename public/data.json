@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T02:51:53.687Z",
+  "updated_at": "2026-03-20T04:44:17.995Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
-        "name": "High And Low",
-        "artist": "Empire Of The Sun",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273656928563a0d1008d6bfbe4a",
-        "spotify_url": "https://open.spotify.com/track/34WI9hCaE3AzbOYT9wFXLP"
-      },
-      {
-        "name": "Closer",
-        "artist": "The Chainsmokers",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453",
-        "spotify_url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
-      },
-      {
-        "name": "Maps",
+        "name": "Cold (feat. Future)",
         "artist": "Maroon 5",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c",
-        "spotify_url": "https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc"
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273fc4852898bc6ed85b3e3f89c",
+        "spotify_url": "https://open.spotify.com/track/7gwLQ4tZ5UdZ7qNcDyJ8wr"
       },
       {
-        "name": "Feel So Close - Radio Edit",
-        "artist": "Calvin Harris",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273dcef905cb144d4867119850b",
-        "spotify_url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
+        "name": "Rather Be (feat. Jess Glynne)",
+        "artist": "Clean Bandit",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273e2a93f34e3c52c12f2a5578f",
+        "spotify_url": "https://open.spotify.com/track/0am001WwFBVGDGLwRh3ixi"
       },
       {
-        "name": "Starships",
-        "artist": "Nicki Minaj",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27385235715597dcd07bb9e0f84",
-        "spotify_url": "https://open.spotify.com/track/1oHNvJVbFkexQc0BpQp7Y4"
+        "name": "Only Girl (In The World)",
+        "artist": "Rihanna",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27331548865f7c729290b96c794",
+        "spotify_url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
+      },
+      {
+        "name": "Lights",
+        "artist": "Ellie Goulding",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27391538eb04634de568637b8be",
+        "spotify_url": "https://open.spotify.com/track/11ozIUBoXAgRTVWelDn4pL"
+      },
+      {
+        "name": "Stressed Out",
+        "artist": "Twenty One Pilots",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7",
+        "spotify_url": "https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn"
       }
     ],
     "currently_playing": null
