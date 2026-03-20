@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T17:25:44.769Z",
+  "updated_at": "2026-03-20T17:59:49.669Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,6 +48,12 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "Starboy",
+        "artist": "The Weeknd",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+        "spotify_url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
+      },
+      {
         "name": "BUTTERFLY EFFECT",
         "artist": "Travis Scott",
         "album_art": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
@@ -70,12 +76,6 @@
         "artist": "Tame Impala",
         "album_art": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
         "spotify_url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
-      },
-      {
-        "name": "Timeless (feat Playboi Carti)",
-        "artist": "The Weeknd",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273982320da137d0de34410df61",
-        "spotify_url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
       }
     ],
     "currently_playing": null
