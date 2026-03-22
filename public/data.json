@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T19:51:31.677Z",
+  "updated_at": "2026-03-22T20:23:24.068Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "Say It Ain't So - Original Mix",
+        "artist": "Weezer",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273345536847e60f622ee0eae96",
+        "spotify_url": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"
+      },
+      {
+        "name": "Feels Like We Only Go Backwards",
+        "artist": "Tame Impala",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273370c12f82872c9cfaee80193",
+        "spotify_url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
+      },
+      {
+        "name": "Need 2",
+        "artist": "Pinegrove",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273251adf76d00dcb1356e25b10",
+        "spotify_url": "https://open.spotify.com/track/1BDRKVuooLvqayamtAEV4z"
+      },
+      {
+        "name": "Half Mast",
+        "artist": "Empire Of The Sun",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273f3aa0e6ca22a382007f61e4d",
+        "spotify_url": "https://open.spotify.com/track/49Hkgl03InFFqBklOQxunt"
+      },
+      {
         "name": "Harness Your Hopes - B-side",
         "artist": "Pavement",
         "album_art": "https://i.scdn.co/image/ab67616d0000b273c462f40b1b7bfb7c27b9dd41",
         "spotify_url": "https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX"
-      },
-      {
-        "name": "The Spins",
-        "artist": "Mac Miller",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273bd510ebd3fc410e97e80b892",
-        "spotify_url": "https://open.spotify.com/track/3iEUDvanZwQhLCIqUmCR7N"
-      },
-      {
-        "name": "Don't Stop Me Now - Remastered 2011",
-        "artist": "Queen",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889",
-        "spotify_url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
-      },
-      {
-        "name": "Locked out of Heaven",
-        "artist": "Bruno Mars",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46",
-        "spotify_url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
-      },
-      {
-        "name": "Sure Thing",
-        "artist": "Miguel",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c",
-        "spotify_url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
       }
     ],
     "currently_playing": null
