@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T17:03:19.224Z",
+  "updated_at": "2026-03-22T17:37:34.871Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
-        "name": "Thought You Should Know",
-        "artist": "Morgan Wallen",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273c37a94d92b0a874ba2419ed7",
-        "spotify_url": "https://open.spotify.com/track/4Fm1GxOXJEiJQ3z6LCQbSP"
+        "name": "back to friends",
+        "artist": "sombr",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2734229702de91cb3d3a4383302",
+        "spotify_url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
       },
       {
-        "name": "Starboy",
-        "artist": "The Weeknd",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
-        "spotify_url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
+        "name": "Don't Stop The Music",
+        "artist": "Rihanna",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273b9ff0a5f40d3406aed5e5e3b",
+        "spotify_url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
       },
       {
-        "name": "BUTTERFLY EFFECT",
-        "artist": "Travis Scott",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
-        "spotify_url": "https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN"
+        "name": "Billie Jean",
+        "artist": "Michael Jackson",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+        "spotify_url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
       },
       {
-        "name": "Magnolia",
-        "artist": "Playboi Carti",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
-        "spotify_url": "https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl"
+        "name": "That's What I Like",
+        "artist": "Bruno Mars",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
+        "spotify_url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
       },
       {
-        "name": "Passionfruit",
-        "artist": "Drake",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
-        "spotify_url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
+        "name": "Sunday Morning",
+        "artist": "Maroon 5",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e",
+        "spotify_url": "https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy"
       }
     ],
     "currently_playing": null
