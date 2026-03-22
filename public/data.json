@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T14:52:59.633Z",
+  "updated_at": "2026-03-22T15:22:47.948Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,6 +48,12 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "Thought You Should Know",
+        "artist": "Morgan Wallen",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273c37a94d92b0a874ba2419ed7",
+        "spotify_url": "https://open.spotify.com/track/4Fm1GxOXJEiJQ3z6LCQbSP"
+      },
+      {
         "name": "Starboy",
         "artist": "The Weeknd",
         "album_art": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
@@ -70,12 +76,6 @@
         "artist": "Drake",
         "album_art": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
         "spotify_url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
-      },
-      {
-        "name": "The Less I Know The Better",
-        "artist": "Tame Impala",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
-        "spotify_url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
       }
     ],
     "currently_playing": null
