@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T18:29:02.619Z",
+  "updated_at": "2026-03-23T19:29:22.093Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,6 +48,12 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "Can't Stop",
+        "artist": "Red Hot Chili Peppers",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4",
+        "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
+      },
+      {
         "name": "Take It Easy - 2013 Remaster",
         "artist": "Eagles",
         "album_art": "https://i.scdn.co/image/ab67616d0000b273c13acd642ba9f6f5f127aa1b",
@@ -70,12 +76,6 @@
         "artist": "The Strokes",
         "album_art": "https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4",
         "spotify_url": "https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI"
-      },
-      {
-        "name": "High and Dry",
-        "artist": "Radiohead",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
-        "spotify_url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
       }
     ],
     "currently_playing": null
