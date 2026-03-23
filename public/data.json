@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T23:40:09.684Z",
+  "updated_at": "2026-03-23T00:02:33.635Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,6 +48,12 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "Take It Easy - 2013 Remaster",
+        "artist": "Eagles",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273c13acd642ba9f6f5f127aa1b",
+        "spotify_url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+      },
+      {
         "name": "She's Always a Woman",
         "artist": "Billy Joel",
         "album_art": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
@@ -70,12 +76,6 @@
         "artist": "Radiohead",
         "album_art": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
         "spotify_url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
-      },
-      {
-        "name": "Salad Days",
-        "artist": "Mac DeMarco",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273ec6e9c13eeed14eedbd5f7c9",
-        "spotify_url": "https://open.spotify.com/track/5VdaMUzoQetwxQwtWAd022"
       }
     ],
     "currently_playing": null
