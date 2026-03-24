@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T16:45:32.167Z",
+  "updated_at": "2026-03-24T17:42:20.990Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,6 +48,12 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "Ride Wit Me",
+        "artist": "Nelly",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273a7ad64a69a42647de9dd0dad",
+        "spotify_url": "https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ"
+      },
+      {
         "name": "ROCKSHITT",
         "artist": "Qualitty",
         "album_art": "https://i.scdn.co/image/ab67616d0000b27345e6ed90b7d49ab8cd13b184",
@@ -70,12 +76,6 @@
         "artist": "Mac Miller",
         "album_art": "https://i.scdn.co/image/ab67616d0000b2732e92f776279eaf45d14a33fd",
         "spotify_url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
-      },
-      {
-        "name": "Doses & Mimosas",
-        "artist": "Cherub",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2738544567bdc5afbafaffc3449",
-        "spotify_url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
       }
     ],
     "currently_playing": null
