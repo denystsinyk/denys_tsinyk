@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T14:46:56.166Z",
+  "updated_at": "2026-03-24T15:49:24.406Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
-        "name": "Can't Stop",
-        "artist": "Red Hot Chili Peppers",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4",
-        "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
+        "name": "Hypnotize - 2014 Remaster",
+        "artist": "The Notorious B.I.G.",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "spotify_url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
       },
       {
-        "name": "Take It Easy - 2013 Remaster",
-        "artist": "Eagles",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273c13acd642ba9f6f5f127aa1b",
-        "spotify_url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+        "name": "Get Jiggy",
+        "artist": "B Jack$",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273d67f972e6f2862b61c5dfe1b",
+        "spotify_url": "https://open.spotify.com/track/7yr3RNm0Cfe0bdlqCnj1dP"
       },
       {
-        "name": "She's Always a Woman",
-        "artist": "Billy Joel",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
-        "spotify_url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
+        "name": "Is This Love",
+        "artist": "Bob Marley & The Wailers",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273387799441ba867649dfbb702",
+        "spotify_url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
       },
       {
-        "name": "Trouble",
-        "artist": "Cage The Elephant",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273cbc75fbb1252959c9765ff4f",
-        "spotify_url": "https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8"
+        "name": "bando - sped up + reverb",
+        "artist": "bbygirl",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27382b1ffa2ac97cde23863bdc4",
+        "spotify_url": "https://open.spotify.com/track/4mIxQgfLFyTIK9DPR28PCm"
       },
       {
-        "name": "Someday",
-        "artist": "The Strokes",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4",
-        "spotify_url": "https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI"
+        "name": "Hey Ya!",
+        "artist": "Outkast",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2736e88eb6508fd94cd1b745ce2",
+        "spotify_url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
       }
     ],
     "currently_playing": null
