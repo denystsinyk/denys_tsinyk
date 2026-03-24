@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T15:49:24.406Z",
+  "updated_at": "2026-03-24T16:45:32.167Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
-        "name": "Hypnotize - 2014 Remaster",
-        "artist": "The Notorious B.I.G.",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
-        "spotify_url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
+        "name": "ROCKSHITT",
+        "artist": "Qualitty",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27345e6ed90b7d49ab8cd13b184",
+        "spotify_url": "https://open.spotify.com/track/5wWKstHFgzy55nCZwosI1d"
       },
       {
-        "name": "Get Jiggy",
-        "artist": "B Jack$",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273d67f972e6f2862b61c5dfe1b",
-        "spotify_url": "https://open.spotify.com/track/7yr3RNm0Cfe0bdlqCnj1dP"
+        "name": "DARK THOUGHTS",
+        "artist": "NovaX",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27384105291faf1c067fe2ff9d6",
+        "spotify_url": "https://open.spotify.com/track/7spLzroR393JITyQzoPNiP"
       },
       {
-        "name": "Is This Love",
-        "artist": "Bob Marley & The Wailers",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273387799441ba867649dfbb702",
-        "spotify_url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
+        "name": "Her x Money In The Grave - Renewwed’s Version",
+        "artist": "renewwed",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2736b2021384e4db102e7b07747",
+        "spotify_url": "https://open.spotify.com/track/2kuJzupwf1QXKWdeubkOrQ"
       },
       {
-        "name": "bando - sped up + reverb",
-        "artist": "bbygirl",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27382b1ffa2ac97cde23863bdc4",
-        "spotify_url": "https://open.spotify.com/track/4mIxQgfLFyTIK9DPR28PCm"
+        "name": "Dang! (feat. Anderson .Paak)",
+        "artist": "Mac Miller",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2732e92f776279eaf45d14a33fd",
+        "spotify_url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
       },
       {
-        "name": "Hey Ya!",
-        "artist": "Outkast",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2736e88eb6508fd94cd1b745ce2",
-        "spotify_url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
+        "name": "Doses & Mimosas",
+        "artist": "Cherub",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2738544567bdc5afbafaffc3449",
+        "spotify_url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
       }
     ],
     "currently_playing": null
