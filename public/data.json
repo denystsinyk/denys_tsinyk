@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T18:37:01.077Z",
+  "updated_at": "2026-03-25T19:31:14.798Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
-        "name": "Hell N Back",
-        "artist": "Bakar",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
-        "spotify_url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
-      },
-      {
-        "name": "Cooler Than Me - Single Mix",
-        "artist": "Mike Posner",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273d6165c0d6eba7e5bf3fca16d",
-        "spotify_url": "https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj"
-      },
-      {
-        "name": "Electric Feel",
-        "artist": "MGMT",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2738b32b139981e79f2ebe005eb",
-        "spotify_url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
-      },
-      {
-        "name": "Cigarette Daydreams",
-        "artist": "Cage The Elephant",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273fb1cb900d28642e668d77b12",
-        "spotify_url": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0"
-      },
-      {
-        "name": "Pursuit Of Happiness (Nightmare)",
+        "name": "Mr. Rager",
         "artist": "Kid Cudi",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273a487deeecb334b6619489d74",
-        "spotify_url": "https://open.spotify.com/track/6MtKObWYda2qnNIpJI21uD"
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2735a750965d0ad3f11cac34628",
+        "spotify_url": "https://open.spotify.com/track/2ncLdwTd8qzkxiJjlbiOgC"
+      },
+      {
+        "name": "Everybody Talks",
+        "artist": "Neon Trees",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2",
+        "spotify_url": "https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq"
+      },
+      {
+        "name": "3 Nights",
+        "artist": "Dominic Fike",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
+        "spotify_url": "https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX"
+      },
+      {
+        "name": "Out of My League",
+        "artist": "Fitz and The Tantrums",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2735e145eb24e282b9554501a27",
+        "spotify_url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
+      },
+      {
+        "name": "Brazil",
+        "artist": "Declan McKenna",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27311b78d26863f111044c4060f",
+        "spotify_url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
       }
     ],
     "currently_playing": null
