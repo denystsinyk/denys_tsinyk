@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T16:47:23.520Z",
+  "updated_at": "2026-03-25T17:44:42.244Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,6 +48,12 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "Ангела",
+        "artist": "Boombox",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273ffa3cf5e603a81288218401f",
+        "spotify_url": "https://open.spotify.com/track/18XKj4oGy2nWrQZ4sloSYg"
+      },
+      {
         "name": "#Chewing",
         "artist": "Jerry Heil",
         "album_art": "https://i.scdn.co/image/ab67616d0000b27388078f707fafe0b6043d7767",
@@ -70,12 +76,6 @@
         "artist": "Vremya i Steklo",
         "album_art": "https://i.scdn.co/image/ab67616d0000b273de24b013a136de7712aaa54c",
         "spotify_url": "https://open.spotify.com/track/5ADcLyoim65ek1BDtEDOLc"
-      },
-      {
-        "name": "Журавлі",
-        "artist": "The Hardkiss",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273f07d82be2a84b3fd1d5141b4",
-        "spotify_url": "https://open.spotify.com/track/6efv1tZe3sTYURS6XmsL7Z"
       }
     ],
     "currently_playing": null
