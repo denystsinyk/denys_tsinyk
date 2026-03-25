@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T15:44:13.913Z",
+  "updated_at": "2026-03-25T16:47:23.520Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
-        "name": "Все буде добре",
-        "artist": "Okean Elzy",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273b8c36070f1dd73c83fdf5709",
-        "spotify_url": "https://open.spotify.com/track/5vctnkniVZ18QOdlLC6AK9"
+        "name": "#Chewing",
+        "artist": "Jerry Heil",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27388078f707fafe0b6043d7767",
+        "spotify_url": "https://open.spotify.com/track/2gr891Ph1SD7z0VZ9dIM0g"
       },
       {
-        "name": "Я і Сара",
-        "artist": "DZIDZIO",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27335cd272ffdc3073b81f55c6b",
-        "spotify_url": "https://open.spotify.com/track/1gUMLl48fBmxOkqTXqno0B"
+        "name": "Коханці",
+        "artist": "The Hardkiss",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273f07d82be2a84b3fd1d5141b4",
+        "spotify_url": "https://open.spotify.com/track/2mbIGt0obhqJaoo1XgmtJU"
       },
       {
-        "name": "Весна",
-        "artist": "Vopli Vidopliassova",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2735dc42c38fd4580e25f7f315a",
-        "spotify_url": "https://open.spotify.com/track/6IrwEMCu3B4EMaXpCDdkej"
+        "name": "Квiти в волоссi",
+        "artist": "Boombox",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273d3bc5b2a43c501258bfb7a48",
+        "spotify_url": "https://open.spotify.com/track/20dDpjJ59PUAIdbXMkIrmd"
       },
       {
-        "name": "На небі",
-        "artist": "Okean Elzy",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2737c5dd89f14f0e9a18f360d59",
-        "spotify_url": "https://open.spotify.com/track/307BZpDAtO3OwRs2wrV1S9"
+        "name": "Дим",
+        "artist": "Vremya i Steklo",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273de24b013a136de7712aaa54c",
+        "spotify_url": "https://open.spotify.com/track/5ADcLyoim65ek1BDtEDOLc"
       },
       {
-        "name": "Старі фотографії (Альбомна версія)",
-        "artist": "Скрябін",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27340297f513a39b63017f9c910",
-        "spotify_url": "https://open.spotify.com/track/2SC0jjqCvpZraHSkf7g0YG"
+        "name": "Журавлі",
+        "artist": "The Hardkiss",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273f07d82be2a84b3fd1d5141b4",
+        "spotify_url": "https://open.spotify.com/track/6efv1tZe3sTYURS6XmsL7Z"
       }
     ],
     "currently_playing": null
