@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T14:21:30.888Z",
+  "updated_at": "2026-03-25T15:44:13.913Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
-        "name": "Ride Wit Me",
-        "artist": "Nelly",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273a7ad64a69a42647de9dd0dad",
-        "spotify_url": "https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ"
+        "name": "Все буде добре",
+        "artist": "Okean Elzy",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273b8c36070f1dd73c83fdf5709",
+        "spotify_url": "https://open.spotify.com/track/5vctnkniVZ18QOdlLC6AK9"
       },
       {
-        "name": "ROCKSHITT",
-        "artist": "Qualitty",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27345e6ed90b7d49ab8cd13b184",
-        "spotify_url": "https://open.spotify.com/track/5wWKstHFgzy55nCZwosI1d"
+        "name": "Я і Сара",
+        "artist": "DZIDZIO",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27335cd272ffdc3073b81f55c6b",
+        "spotify_url": "https://open.spotify.com/track/1gUMLl48fBmxOkqTXqno0B"
       },
       {
-        "name": "DARK THOUGHTS",
-        "artist": "NovaX",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27384105291faf1c067fe2ff9d6",
-        "spotify_url": "https://open.spotify.com/track/7spLzroR393JITyQzoPNiP"
+        "name": "Весна",
+        "artist": "Vopli Vidopliassova",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2735dc42c38fd4580e25f7f315a",
+        "spotify_url": "https://open.spotify.com/track/6IrwEMCu3B4EMaXpCDdkej"
       },
       {
-        "name": "Her x Money In The Grave - Renewwed’s Version",
-        "artist": "renewwed",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2736b2021384e4db102e7b07747",
-        "spotify_url": "https://open.spotify.com/track/2kuJzupwf1QXKWdeubkOrQ"
+        "name": "На небі",
+        "artist": "Okean Elzy",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2737c5dd89f14f0e9a18f360d59",
+        "spotify_url": "https://open.spotify.com/track/307BZpDAtO3OwRs2wrV1S9"
       },
       {
-        "name": "Dang! (feat. Anderson .Paak)",
-        "artist": "Mac Miller",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2732e92f776279eaf45d14a33fd",
-        "spotify_url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
+        "name": "Старі фотографії (Альбомна версія)",
+        "artist": "Скрябін",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27340297f513a39b63017f9c910",
+        "spotify_url": "https://open.spotify.com/track/2SC0jjqCvpZraHSkf7g0YG"
       }
     ],
     "currently_playing": null
