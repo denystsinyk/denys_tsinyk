@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T17:44:42.244Z",
+  "updated_at": "2026-03-25T18:37:01.077Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
-        "name": "Ангела",
-        "artist": "Boombox",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273ffa3cf5e603a81288218401f",
-        "spotify_url": "https://open.spotify.com/track/18XKj4oGy2nWrQZ4sloSYg"
+        "name": "Hell N Back",
+        "artist": "Bakar",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
+        "spotify_url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
       },
       {
-        "name": "#Chewing",
-        "artist": "Jerry Heil",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27388078f707fafe0b6043d7767",
-        "spotify_url": "https://open.spotify.com/track/2gr891Ph1SD7z0VZ9dIM0g"
+        "name": "Cooler Than Me - Single Mix",
+        "artist": "Mike Posner",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273d6165c0d6eba7e5bf3fca16d",
+        "spotify_url": "https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj"
       },
       {
-        "name": "Коханці",
-        "artist": "The Hardkiss",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273f07d82be2a84b3fd1d5141b4",
-        "spotify_url": "https://open.spotify.com/track/2mbIGt0obhqJaoo1XgmtJU"
+        "name": "Electric Feel",
+        "artist": "MGMT",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2738b32b139981e79f2ebe005eb",
+        "spotify_url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
       },
       {
-        "name": "Квiти в волоссi",
-        "artist": "Boombox",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273d3bc5b2a43c501258bfb7a48",
-        "spotify_url": "https://open.spotify.com/track/20dDpjJ59PUAIdbXMkIrmd"
+        "name": "Cigarette Daydreams",
+        "artist": "Cage The Elephant",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273fb1cb900d28642e668d77b12",
+        "spotify_url": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0"
       },
       {
-        "name": "Дим",
-        "artist": "Vremya i Steklo",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273de24b013a136de7712aaa54c",
-        "spotify_url": "https://open.spotify.com/track/5ADcLyoim65ek1BDtEDOLc"
+        "name": "Pursuit Of Happiness (Nightmare)",
+        "artist": "Kid Cudi",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273a487deeecb334b6619489d74",
+        "spotify_url": "https://open.spotify.com/track/6MtKObWYda2qnNIpJI21uD"
       }
     ],
     "currently_playing": null
