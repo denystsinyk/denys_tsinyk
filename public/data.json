@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T16:44:38.056Z",
+  "updated_at": "2026-03-26T17:45:36.697Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,6 +48,12 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "Ой, смереко",
+        "artist": "Анатолій Гнатюк",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27375812bf2ea95ef2048be2494",
+        "spotify_url": "https://open.spotify.com/track/1IcqmU8VaTjUGOTFpi5EzV"
+      },
+      {
         "name": "Ой, хто п'є, тому наливайте",
         "artist": "Борис Сичевський",
         "album_art": "https://i.scdn.co/image/ab67616d0000b273f532bc570ff52db3303221ed",
@@ -70,12 +76,6 @@
         "artist": "TIK",
         "album_art": "https://i.scdn.co/image/ab67616d0000b273e1567853ac39c7f6d9fdcd0b",
         "spotify_url": "https://open.spotify.com/track/3duyMGvUlAyyd1WfybzMxX"
-      },
-      {
-        "name": "Василина",
-        "artist": "DZIDZIO",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27335cd272ffdc3073b81f55c6b",
-        "spotify_url": "https://open.spotify.com/track/2idgIGb9NfViDafSyjnhg9"
       }
     ],
     "currently_playing": null
