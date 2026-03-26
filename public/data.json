@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T00:02:07.456Z",
+  "updated_at": "2026-03-26T03:24:09.081Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,6 +48,18 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "ORANGE SODA",
+        "artist": "Baby Keem",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1",
+        "spotify_url": "https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD"
+      },
+      {
+        "name": "The Thrill",
+        "artist": "Wiz Khalifa",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2736ef7d461f3287b23dad96f91",
+        "spotify_url": "https://open.spotify.com/track/2DmYOh6HUW76u889LvaS1n"
+      },
+      {
         "name": "The Thrill",
         "artist": "Wiz Khalifa",
         "album_art": "https://i.scdn.co/image/ab67616d0000b2736ef7d461f3287b23dad96f91",
@@ -64,18 +76,6 @@
         "artist": "Neon Trees",
         "album_art": "https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2",
         "spotify_url": "https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq"
-      },
-      {
-        "name": "3 Nights",
-        "artist": "Dominic Fike",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
-        "spotify_url": "https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX"
-      },
-      {
-        "name": "Out of My League",
-        "artist": "Fitz and The Tantrums",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2735e145eb24e282b9554501a27",
-        "spotify_url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
       }
     ],
     "currently_playing": null
