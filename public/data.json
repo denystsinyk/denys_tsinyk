@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T15:39:38.092Z",
+  "updated_at": "2026-03-26T16:44:38.056Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
-        "name": "Говорили і курили - Radio Edit",
-        "artist": "Скрябін",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273a384d76c8bbb94b7c2c5b8f0",
-        "spotify_url": "https://open.spotify.com/track/5ApnjHd2HFACFPomscuq31"
+        "name": "Ой, хто п'є, тому наливайте",
+        "artist": "Борис Сичевський",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273f532bc570ff52db3303221ed",
+        "spotify_url": "https://open.spotify.com/track/374e9FlvnxntYjvqcq7jRQ"
       },
       {
-        "name": "Говорили і курили - Radio Edit",
-        "artist": "Скрябін",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273a384d76c8bbb94b7c2c5b8f0",
-        "spotify_url": "https://open.spotify.com/track/5ApnjHd2HFACFPomscuq31"
+        "name": "Ой, Марічко, чичері",
+        "artist": "Борис Сичевський",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273f532bc570ff52db3303221ed",
+        "spotify_url": "https://open.spotify.com/track/3HataTxZQITVn4TlrLyacx"
       },
       {
-        "name": "ORANGE SODA",
-        "artist": "Baby Keem",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1",
-        "spotify_url": "https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD"
+        "name": "Вчителька",
+        "artist": "TIK",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273844a3144cd7394b630ac1f59",
+        "spotify_url": "https://open.spotify.com/track/7DNWWIpFOOeCDZUIfOrQSQ"
       },
       {
-        "name": "The Thrill",
-        "artist": "Wiz Khalifa",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2736ef7d461f3287b23dad96f91",
-        "spotify_url": "https://open.spotify.com/track/2DmYOh6HUW76u889LvaS1n"
+        "name": "Олені",
+        "artist": "TIK",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273e1567853ac39c7f6d9fdcd0b",
+        "spotify_url": "https://open.spotify.com/track/3duyMGvUlAyyd1WfybzMxX"
       },
       {
-        "name": "The Thrill",
-        "artist": "Wiz Khalifa",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2736ef7d461f3287b23dad96f91",
-        "spotify_url": "https://open.spotify.com/track/2DmYOh6HUW76u889LvaS1n"
+        "name": "Василина",
+        "artist": "DZIDZIO",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27335cd272ffdc3073b81f55c6b",
+        "spotify_url": "https://open.spotify.com/track/2idgIGb9NfViDafSyjnhg9"
       }
     ],
     "currently_playing": null
