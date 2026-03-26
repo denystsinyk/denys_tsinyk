@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T23:31:33.108Z",
+  "updated_at": "2026-03-26T00:02:07.456Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,6 +48,12 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "The Thrill",
+        "artist": "Wiz Khalifa",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2736ef7d461f3287b23dad96f91",
+        "spotify_url": "https://open.spotify.com/track/2DmYOh6HUW76u889LvaS1n"
+      },
+      {
         "name": "Mr. Rager",
         "artist": "Kid Cudi",
         "album_art": "https://i.scdn.co/image/ab67616d0000b2735a750965d0ad3f11cac34628",
@@ -70,12 +76,6 @@
         "artist": "Fitz and The Tantrums",
         "album_art": "https://i.scdn.co/image/ab67616d0000b2735e145eb24e282b9554501a27",
         "spotify_url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
-      },
-      {
-        "name": "Brazil",
-        "artist": "Declan McKenna",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27311b78d26863f111044c4060f",
-        "spotify_url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
       }
     ],
     "currently_playing": null
