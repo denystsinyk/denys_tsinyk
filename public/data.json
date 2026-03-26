@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T14:08:57.707Z",
+  "updated_at": "2026-03-26T15:39:38.092Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,6 +48,18 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "Говорили і курили - Radio Edit",
+        "artist": "Скрябін",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273a384d76c8bbb94b7c2c5b8f0",
+        "spotify_url": "https://open.spotify.com/track/5ApnjHd2HFACFPomscuq31"
+      },
+      {
+        "name": "Говорили і курили - Radio Edit",
+        "artist": "Скрябін",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273a384d76c8bbb94b7c2c5b8f0",
+        "spotify_url": "https://open.spotify.com/track/5ApnjHd2HFACFPomscuq31"
+      },
+      {
         "name": "ORANGE SODA",
         "artist": "Baby Keem",
         "album_art": "https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1",
@@ -64,18 +76,6 @@
         "artist": "Wiz Khalifa",
         "album_art": "https://i.scdn.co/image/ab67616d0000b2736ef7d461f3287b23dad96f91",
         "spotify_url": "https://open.spotify.com/track/2DmYOh6HUW76u889LvaS1n"
-      },
-      {
-        "name": "Mr. Rager",
-        "artist": "Kid Cudi",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2735a750965d0ad3f11cac34628",
-        "spotify_url": "https://open.spotify.com/track/2ncLdwTd8qzkxiJjlbiOgC"
-      },
-      {
-        "name": "Everybody Talks",
-        "artist": "Neon Trees",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2",
-        "spotify_url": "https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq"
       }
     ],
     "currently_playing": null
