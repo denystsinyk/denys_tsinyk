@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T23:28:58.508Z",
+  "updated_at": "2026-03-27T23:54:46.496Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
-        "name": "Ой, смереко",
-        "artist": "Анатолій Гнатюк",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27375812bf2ea95ef2048be2494",
-        "spotify_url": "https://open.spotify.com/track/1IcqmU8VaTjUGOTFpi5EzV"
+        "name": "Секс бомби",
+        "artist": "гурт Лісапетний батальйон",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273bbd3b566dbdb0ee2a93549db",
+        "spotify_url": "https://open.spotify.com/track/0gZ8Oyabv7UZU9qtPJH0n6"
       },
       {
-        "name": "Ой, смереко",
-        "artist": "Анатолій Гнатюк",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27375812bf2ea95ef2048be2494",
-        "spotify_url": "https://open.spotify.com/track/1IcqmU8VaTjUGOTFpi5EzV"
+        "name": "Сама файна",
+        "artist": "гурт Лісапетний батальйон",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273bbd3b566dbdb0ee2a93549db",
+        "spotify_url": "https://open.spotify.com/track/2RPI1drGHEAw3ReGkFkbsU"
       },
       {
-        "name": "Ой, смереко",
-        "artist": "Анатолій Гнатюк",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27375812bf2ea95ef2048be2494",
-        "spotify_url": "https://open.spotify.com/track/1IcqmU8VaTjUGOTFpi5EzV"
+        "name": "Гойра вісілє",
+        "artist": "Василь Мельникович \"Гуцул-Хуліган\"",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2733ea1e2f7cf6facb71bca3916",
+        "spotify_url": "https://open.spotify.com/track/4BXaDRBdkOx8GvAFzNnCaB"
       },
       {
-        "name": "Ой, хто п'є, тому наливайте",
-        "artist": "Борис Сичевський",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273f532bc570ff52db3303221ed",
-        "spotify_url": "https://open.spotify.com/track/374e9FlvnxntYjvqcq7jRQ"
+        "name": "Весілля в Карпатах",
+        "artist": "Віктор Павлік",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273946499bc31c1733387ff409d",
+        "spotify_url": "https://open.spotify.com/track/3m7VIhXROk4oMaSMIHRHDu"
       },
       {
-        "name": "Ой, Марічко, чичері",
-        "artist": "Борис Сичевський",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273f532bc570ff52db3303221ed",
-        "spotify_url": "https://open.spotify.com/track/3HataTxZQITVn4TlrLyacx"
+        "name": "Червона рута",
+        "artist": "Sofia Rotaru",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273c886c1e823a32ff62d14bf70",
+        "spotify_url": "https://open.spotify.com/track/0ZSYo5G0FUZ4EEvc4snSvg"
       }
     ],
     "currently_playing": null
