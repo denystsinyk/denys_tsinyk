@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T22:54:46.582Z",
+  "updated_at": "2026-03-27T23:28:58.508Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -60,6 +60,12 @@
         "spotify_url": "https://open.spotify.com/track/1IcqmU8VaTjUGOTFpi5EzV"
       },
       {
+        "name": "Ой, смереко",
+        "artist": "Анатолій Гнатюк",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27375812bf2ea95ef2048be2494",
+        "spotify_url": "https://open.spotify.com/track/1IcqmU8VaTjUGOTFpi5EzV"
+      },
+      {
         "name": "Ой, хто п'є, тому наливайте",
         "artist": "Борис Сичевський",
         "album_art": "https://i.scdn.co/image/ab67616d0000b273f532bc570ff52db3303221ed",
@@ -70,12 +76,6 @@
         "artist": "Борис Сичевський",
         "album_art": "https://i.scdn.co/image/ab67616d0000b273f532bc570ff52db3303221ed",
         "spotify_url": "https://open.spotify.com/track/3HataTxZQITVn4TlrLyacx"
-      },
-      {
-        "name": "Вчителька",
-        "artist": "TIK",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273844a3144cd7394b630ac1f59",
-        "spotify_url": "https://open.spotify.com/track/7DNWWIpFOOeCDZUIfOrQSQ"
       }
     ],
     "currently_playing": null
