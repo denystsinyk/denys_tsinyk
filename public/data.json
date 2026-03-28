@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T23:54:46.496Z",
+  "updated_at": "2026-03-28T01:54:12.293Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
-        "name": "Секс бомби",
-        "artist": "гурт Лісапетний батальйон",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273bbd3b566dbdb0ee2a93549db",
-        "spotify_url": "https://open.spotify.com/track/0gZ8Oyabv7UZU9qtPJH0n6"
+        "name": "Алкоголізм",
+        "artist": "TIK",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273844a3144cd7394b630ac1f59",
+        "spotify_url": "https://open.spotify.com/track/6PxQ7pBUN8usjM7QwSGoyg"
       },
       {
-        "name": "Сама файна",
-        "artist": "гурт Лісапетний батальйон",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273bbd3b566dbdb0ee2a93549db",
-        "spotify_url": "https://open.spotify.com/track/2RPI1drGHEAw3ReGkFkbsU"
+        "name": "Самогоночка",
+        "artist": "Михайло Березутський",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273558ce6196c9afd1c1bb71960",
+        "spotify_url": "https://open.spotify.com/track/27Qx1NZ7F2uJzr0ePD3ZYz"
       },
       {
-        "name": "Гойра вісілє",
-        "artist": "Василь Мельникович \"Гуцул-Хуліган\"",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2733ea1e2f7cf6facb71bca3916",
-        "spotify_url": "https://open.spotify.com/track/4BXaDRBdkOx8GvAFzNnCaB"
+        "name": "Мій рідний край",
+        "artist": "Василь Зінкевич",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27363f30bb95e0bf26b95cd6f7b",
+        "spotify_url": "https://open.spotify.com/track/1Ir1mhfkRh9jMxYxLjskP2"
       },
       {
-        "name": "Весілля в Карпатах",
-        "artist": "Віктор Павлік",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273946499bc31c1733387ff409d",
-        "spotify_url": "https://open.spotify.com/track/3m7VIhXROk4oMaSMIHRHDu"
+        "name": "Теща, дай на машину",
+        "artist": "Володимир Іжицький",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273ae886bc8848c3e26880727d0",
+        "spotify_url": "https://open.spotify.com/track/0HuTdbxo0WAiPBEAa3K1s7"
       },
       {
-        "name": "Червона рута",
-        "artist": "Sofia Rotaru",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273c886c1e823a32ff62d14bf70",
-        "spotify_url": "https://open.spotify.com/track/0ZSYo5G0FUZ4EEvc4snSvg"
+        "name": "Королєва",
+        "artist": "Цвіт Кульбаби",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273fa26066072fbbe1ae312d1f5",
+        "spotify_url": "https://open.spotify.com/track/5xauLzVGTvhfVCJpv3NBU5"
       }
     ],
     "currently_playing": null
