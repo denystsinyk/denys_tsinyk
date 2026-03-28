@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T18:36:07.757Z",
+  "updated_at": "2026-03-28T19:09:47.147Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
-        "name": "Весілля",
-        "artist": "Володимир Іжицький",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273afb82a9b6f252a804220acb7",
-        "spotify_url": "https://open.spotify.com/track/49veRRLhsXxeRoJgxyQO1b"
-      },
-      {
-        "name": "Тракторист",
+        "name": "Ой гоп, таки-так",
         "artist": "В'ячеслав Кукоба",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27394ac9d0ce38c76ab0cc01541",
-        "spotify_url": "https://open.spotify.com/track/29ZPsp5ugnwIBW3O3hMEBq"
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273b97dfc4c95b971b610c7482b",
+        "spotify_url": "https://open.spotify.com/track/4lnzvyN0X3XBhysgph1Wgl"
       },
       {
-        "name": "Циганочка моя",
-        "artist": "Борис Сичевський",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273f532bc570ff52db3303221ed",
-        "spotify_url": "https://open.spotify.com/track/1YzUEVjs7ihi8GHZOBD7nT"
-      },
-      {
-        "name": "Між берегами",
-        "artist": "Павло Доскоч",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273dad439dd6a6e8dd1082da3d7",
-        "spotify_url": "https://open.spotify.com/track/7lp091FAdWfMl0Icpq3WMM"
-      },
-      {
-        "name": "Червона ружа",
+        "name": "Била мене мати",
         "artist": "Андрій Мільчук",
         "album_art": "https://i.scdn.co/image/ab67616d0000b2732b3b30b418fda1761af48437",
-        "spotify_url": "https://open.spotify.com/track/2x1CbsWgfxhwtDoztEonHT"
+        "spotify_url": "https://open.spotify.com/track/3tiFuiFr3HP7QFACW9UZxb"
+      },
+      {
+        "name": "Коломийки",
+        "artist": "гурт Козятинські козаки",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27359c69eedf3c8b3b36b3b6ad3",
+        "spotify_url": "https://open.spotify.com/track/60tH9FYnvrXjEQYuhAPAro"
+      },
+      {
+        "name": "Смерека",
+        "artist": "Володимир Іжицький",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273fa066889434fd0892940c557",
+        "spotify_url": "https://open.spotify.com/track/5tejA3udhxOq1dgvYKKPbs"
+      },
+      {
+        "name": "Відвези малу на море",
+        "artist": "Василь Мельникович \"Гуцул-Хуліган\"",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273ad5fb035a64f61cbb6b7db68",
+        "spotify_url": "https://open.spotify.com/track/5QVErxUevC5B0fM3fbLHTq"
       }
     ],
     "currently_playing": null
