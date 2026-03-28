@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T01:54:12.293Z",
+  "updated_at": "2026-03-28T04:18:53.878Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
-        "name": "Алкоголізм",
+        "name": "Самогон",
+        "artist": "В'ячеслав Кукоба",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27317b0a01ef26f8b56404a505a",
+        "spotify_url": "https://open.spotify.com/track/1FGw8XRVAzqnybvBvbWaJe"
+      },
+      {
+        "name": "Надія є",
+        "artist": "Mad Heads",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27342ee2f4356cc04469f864cf0",
+        "spotify_url": "https://open.spotify.com/track/2lokpnfX2lLomlAKmxSzF9"
+      },
+      {
+        "name": "Ой, мамо",
+        "artist": "Андріана",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273b63f96237fe662910c77a1ac",
+        "spotify_url": "https://open.spotify.com/track/1wxyI6hy629E9ObG7amZsy"
+      },
+      {
+        "name": "Сірьожине пірожене",
         "artist": "TIK",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273844a3144cd7394b630ac1f59",
-        "spotify_url": "https://open.spotify.com/track/6PxQ7pBUN8usjM7QwSGoyg"
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273db94ebe0d1d1f32c0d645493",
+        "spotify_url": "https://open.spotify.com/track/77noPsCTDlP4bUQ06qer5n"
       },
       {
-        "name": "Самогоночка",
-        "artist": "Михайло Березутський",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273558ce6196c9afd1c1bb71960",
-        "spotify_url": "https://open.spotify.com/track/27Qx1NZ7F2uJzr0ePD3ZYz"
-      },
-      {
-        "name": "Мій рідний край",
-        "artist": "Василь Зінкевич",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27363f30bb95e0bf26b95cd6f7b",
-        "spotify_url": "https://open.spotify.com/track/1Ir1mhfkRh9jMxYxLjskP2"
-      },
-      {
-        "name": "Теща, дай на машину",
-        "artist": "Володимир Іжицький",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273ae886bc8848c3e26880727d0",
-        "spotify_url": "https://open.spotify.com/track/0HuTdbxo0WAiPBEAa3K1s7"
-      },
-      {
-        "name": "Королєва",
-        "artist": "Цвіт Кульбаби",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273fa26066072fbbe1ae312d1f5",
-        "spotify_url": "https://open.spotify.com/track/5xauLzVGTvhfVCJpv3NBU5"
+        "name": "По долині річка",
+        "artist": "Павло Доскоч",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273dad439dd6a6e8dd1082da3d7",
+        "spotify_url": "https://open.spotify.com/track/3P8ENI8jVeboaoPGKLtygG"
       }
     ],
     "currently_playing": null
