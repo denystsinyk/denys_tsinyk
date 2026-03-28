@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T17:25:39.007Z",
+  "updated_at": "2026-03-28T17:54:22.301Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
-        "name": "Самогон",
+        "name": "Золоті крилечка",
+        "artist": "Володимир Іжицький",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273afb82a9b6f252a804220acb7",
+        "spotify_url": "https://open.spotify.com/track/6xNfs3xCpXHWWtc0AXObAC"
+      },
+      {
+        "name": "Баба на баяні",
+        "artist": "гурт Лісапетний батальйон",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273bbd3b566dbdb0ee2a93549db",
+        "spotify_url": "https://open.spotify.com/track/0m6aWQhcxfxKWy2lpLV9qt"
+      },
+      {
+        "name": "Я їду в Карпати",
+        "artist": "Павло Доскоч",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273dad439dd6a6e8dd1082da3d7",
+        "spotify_url": "https://open.spotify.com/track/1up4Ajh65ziwiC7mgQ7byI"
+      },
+      {
+        "name": "На весіллі гуляв",
         "artist": "В'ячеслав Кукоба",
         "album_art": "https://i.scdn.co/image/ab67616d0000b27317b0a01ef26f8b56404a505a",
-        "spotify_url": "https://open.spotify.com/track/1FGw8XRVAzqnybvBvbWaJe"
+        "spotify_url": "https://open.spotify.com/track/56OQJrg8hysa2KA2n5fUOY"
       },
       {
-        "name": "Самогон",
-        "artist": "В'ячеслав Кукоба",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27317b0a01ef26f8b56404a505a",
-        "spotify_url": "https://open.spotify.com/track/1FGw8XRVAzqnybvBvbWaJe"
-      },
-      {
-        "name": "Надія є",
-        "artist": "Mad Heads",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27342ee2f4356cc04469f864cf0",
-        "spotify_url": "https://open.spotify.com/track/2lokpnfX2lLomlAKmxSzF9"
-      },
-      {
-        "name": "Ой, мамо",
-        "artist": "Андріана",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273b63f96237fe662910c77a1ac",
-        "spotify_url": "https://open.spotify.com/track/1wxyI6hy629E9ObG7amZsy"
-      },
-      {
-        "name": "Сірьожине пірожене",
-        "artist": "TIK",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273db94ebe0d1d1f32c0d645493",
-        "spotify_url": "https://open.spotify.com/track/77noPsCTDlP4bUQ06qer5n"
+        "name": "Толя зав'язав",
+        "artist": "Михайло Березутський",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273558ce6196c9afd1c1bb71960",
+        "spotify_url": "https://open.spotify.com/track/29QzIAI2QvGWM7M1QUX1MM"
       }
     ],
     "currently_playing": null
