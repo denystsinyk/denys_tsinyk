@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T16:53:52.943Z",
+  "updated_at": "2026-03-28T17:25:39.007Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -54,6 +54,12 @@
         "spotify_url": "https://open.spotify.com/track/1FGw8XRVAzqnybvBvbWaJe"
       },
       {
+        "name": "Самогон",
+        "artist": "В'ячеслав Кукоба",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27317b0a01ef26f8b56404a505a",
+        "spotify_url": "https://open.spotify.com/track/1FGw8XRVAzqnybvBvbWaJe"
+      },
+      {
         "name": "Надія є",
         "artist": "Mad Heads",
         "album_art": "https://i.scdn.co/image/ab67616d0000b27342ee2f4356cc04469f864cf0",
@@ -70,12 +76,6 @@
         "artist": "TIK",
         "album_art": "https://i.scdn.co/image/ab67616d0000b273db94ebe0d1d1f32c0d645493",
         "spotify_url": "https://open.spotify.com/track/77noPsCTDlP4bUQ06qer5n"
-      },
-      {
-        "name": "По долині річка",
-        "artist": "Павло Доскоч",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273dad439dd6a6e8dd1082da3d7",
-        "spotify_url": "https://open.spotify.com/track/3P8ENI8jVeboaoPGKLtygG"
       }
     ],
     "currently_playing": null
