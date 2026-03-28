@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T19:09:47.147Z",
+  "updated_at": "2026-03-28T19:44:25.344Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
-        "name": "Ой гоп, таки-так",
+        "name": "У клубі танці",
+        "artist": "Михайло Березутський",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2739eb2d4353c69f7e6ea4d2e16",
+        "spotify_url": "https://open.spotify.com/track/3ksDWIAGIxV2m03PpJqNXi"
+      },
+      {
+        "name": "Акація",
+        "artist": "Павло Доскоч",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2732e998b227be0d431b67dfa92",
+        "spotify_url": "https://open.spotify.com/track/0lmrBAHqzMyoKrg2lfmp7E"
+      },
+      {
+        "name": "Танці до упаду",
         "artist": "В'ячеслав Кукоба",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273b97dfc4c95b971b610c7482b",
-        "spotify_url": "https://open.spotify.com/track/4lnzvyN0X3XBhysgph1Wgl"
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27394ac9d0ce38c76ab0cc01541",
+        "spotify_url": "https://open.spotify.com/track/0BoRN7K6nwLiVhes4W9bGi"
       },
       {
-        "name": "Била мене мати",
-        "artist": "Андрій Мільчук",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2732b3b30b418fda1761af48437",
-        "spotify_url": "https://open.spotify.com/track/3tiFuiFr3HP7QFACW9UZxb"
-      },
-      {
-        "name": "Коломийки",
+        "name": "Господиня",
         "artist": "гурт Козятинські козаки",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27359c69eedf3c8b3b36b3b6ad3",
-        "spotify_url": "https://open.spotify.com/track/60tH9FYnvrXjEQYuhAPAro"
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273abd35d90cf0f398767994492",
+        "spotify_url": "https://open.spotify.com/track/0irEU0JOlcF2fYaNwgoBRN"
       },
       {
-        "name": "Смерека",
+        "name": "Кохана теща",
         "artist": "Володимир Іжицький",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273fa066889434fd0892940c557",
-        "spotify_url": "https://open.spotify.com/track/5tejA3udhxOq1dgvYKKPbs"
-      },
-      {
-        "name": "Відвези малу на море",
-        "artist": "Василь Мельникович \"Гуцул-Хуліган\"",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273ad5fb035a64f61cbb6b7db68",
-        "spotify_url": "https://open.spotify.com/track/5QVErxUevC5B0fM3fbLHTq"
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273afb82a9b6f252a804220acb7",
+        "spotify_url": "https://open.spotify.com/track/2X2Zko8SNERtDJtgRIcqV6"
       }
     ],
     "currently_playing": null
