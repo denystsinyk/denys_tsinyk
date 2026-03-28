@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T17:54:22.301Z",
+  "updated_at": "2026-03-28T18:36:07.757Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
-        "name": "Золоті крилечка",
+        "name": "Весілля",
         "artist": "Володимир Іжицький",
         "album_art": "https://i.scdn.co/image/ab67616d0000b273afb82a9b6f252a804220acb7",
-        "spotify_url": "https://open.spotify.com/track/6xNfs3xCpXHWWtc0AXObAC"
+        "spotify_url": "https://open.spotify.com/track/49veRRLhsXxeRoJgxyQO1b"
       },
       {
-        "name": "Баба на баяні",
-        "artist": "гурт Лісапетний батальйон",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273bbd3b566dbdb0ee2a93549db",
-        "spotify_url": "https://open.spotify.com/track/0m6aWQhcxfxKWy2lpLV9qt"
+        "name": "Тракторист",
+        "artist": "В'ячеслав Кукоба",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27394ac9d0ce38c76ab0cc01541",
+        "spotify_url": "https://open.spotify.com/track/29ZPsp5ugnwIBW3O3hMEBq"
       },
       {
-        "name": "Я їду в Карпати",
+        "name": "Циганочка моя",
+        "artist": "Борис Сичевський",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273f532bc570ff52db3303221ed",
+        "spotify_url": "https://open.spotify.com/track/1YzUEVjs7ihi8GHZOBD7nT"
+      },
+      {
+        "name": "Між берегами",
         "artist": "Павло Доскоч",
         "album_art": "https://i.scdn.co/image/ab67616d0000b273dad439dd6a6e8dd1082da3d7",
-        "spotify_url": "https://open.spotify.com/track/1up4Ajh65ziwiC7mgQ7byI"
+        "spotify_url": "https://open.spotify.com/track/7lp091FAdWfMl0Icpq3WMM"
       },
       {
-        "name": "На весіллі гуляв",
-        "artist": "В'ячеслав Кукоба",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27317b0a01ef26f8b56404a505a",
-        "spotify_url": "https://open.spotify.com/track/56OQJrg8hysa2KA2n5fUOY"
-      },
-      {
-        "name": "Толя зав'язав",
-        "artist": "Михайло Березутський",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273558ce6196c9afd1c1bb71960",
-        "spotify_url": "https://open.spotify.com/track/29QzIAI2QvGWM7M1QUX1MM"
+        "name": "Червона ружа",
+        "artist": "Андрій Мільчук",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2732b3b30b418fda1761af48437",
+        "spotify_url": "https://open.spotify.com/track/2x1CbsWgfxhwtDoztEonHT"
       }
     ],
     "currently_playing": null
