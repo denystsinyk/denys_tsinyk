@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T04:08:59.946Z",
+  "updated_at": "2026-03-29T05:50:30.157Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,6 +48,18 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "На небі",
+        "artist": "Okean Elzy",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2737c5dd89f14f0e9a18f360d59",
+        "spotify_url": "https://open.spotify.com/track/307BZpDAtO3OwRs2wrV1S9"
+      },
+      {
+        "name": "Говорили і курили - Radio Edit",
+        "artist": "Скрябін",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273a384d76c8bbb94b7c2c5b8f0",
+        "spotify_url": "https://open.spotify.com/track/5ApnjHd2HFACFPomscuq31"
+      },
+      {
         "name": "Wish",
         "artist": "Diplo",
         "album_art": "https://i.scdn.co/image/ab67616d0000b2730ad5bdf41fa39c6493977389",
@@ -64,18 +76,6 @@
         "artist": "Kendrick Lamar",
         "album_art": "https://i.scdn.co/image/ab67616d0000b273d58e537cea05c2156792c53d",
         "spotify_url": "https://open.spotify.com/track/5ujh1I7NZH5agbwf7Hp8Hc"
-      },
-      {
-        "name": "Yes I'm Changing",
-        "artist": "Tame Impala",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
-        "spotify_url": "https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L"
-      },
-      {
-        "name": "Love Lost",
-        "artist": "Mac Miller",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27338d4d52b8a6127029d426757",
-        "spotify_url": "https://open.spotify.com/track/6WVdae8LbPfpOXAWuYdMnT"
       }
     ],
     "currently_playing": null
