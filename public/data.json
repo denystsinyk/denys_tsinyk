@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T23:48:22.260Z",
+  "updated_at": "2026-03-29T01:05:14.270Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,6 +48,24 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "Soundtrack 2 My Life",
+        "artist": "Kid Cudi",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273a487deeecb334b6619489d74",
+        "spotify_url": "https://open.spotify.com/track/0rFpcfF0YfvFUYsl99Bw9d"
+      },
+      {
+        "name": "Swimming Pools (Drank) - Extended Version",
+        "artist": "Kendrick Lamar",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273d58e537cea05c2156792c53d",
+        "spotify_url": "https://open.spotify.com/track/5ujh1I7NZH5agbwf7Hp8Hc"
+      },
+      {
+        "name": "Yes I'm Changing",
+        "artist": "Tame Impala",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
+        "spotify_url": "https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L"
+      },
+      {
         "name": "Love Lost",
         "artist": "Mac Miller",
         "album_art": "https://i.scdn.co/image/ab67616d0000b27338d4d52b8a6127029d426757",
@@ -58,24 +76,6 @@
         "artist": "В'ячеслав Кукоба",
         "album_art": "https://i.scdn.co/image/ab67616d0000b27317b0a01ef26f8b56404a505a",
         "spotify_url": "https://open.spotify.com/track/1FGw8XRVAzqnybvBvbWaJe"
-      },
-      {
-        "name": "День народження",
-        "artist": "Гурт Будьмо",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2736324f6ea7edd0fd062f8d01b",
-        "spotify_url": "https://open.spotify.com/track/3c50Bnie7uXbZDvCzsd55F"
-      },
-      {
-        "name": "У клубі танці",
-        "artist": "Михайло Березутський",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2739eb2d4353c69f7e6ea4d2e16",
-        "spotify_url": "https://open.spotify.com/track/3ksDWIAGIxV2m03PpJqNXi"
-      },
-      {
-        "name": "Акація",
-        "artist": "Павло Доскоч",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2732e998b227be0d431b67dfa92",
-        "spotify_url": "https://open.spotify.com/track/0lmrBAHqzMyoKrg2lfmp7E"
       }
     ],
     "currently_playing": null
