@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T15:44:39.059Z",
+  "updated_at": "2026-03-29T16:16:24.872Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "Lover, You Should've Come Over",
+        "artist": "Jeff Buckley",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273afc2d1d2c8703a10aeded0af",
+        "spotify_url": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"
+      },
+      {
+        "name": "Lover, You Should've Come Over",
+        "artist": "Jeff Buckley",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273afc2d1d2c8703a10aeded0af",
+        "spotify_url": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"
+      },
+      {
+        "name": "Upside Down",
+        "artist": "Jack Johnson",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2731e0232d637e8313d3ef4923e",
+        "spotify_url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
+      },
+      {
+        "name": "Каділак",
+        "artist": "DZIDZIO",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2736da79eed6e8970f11626d994",
+        "spotify_url": "https://open.spotify.com/track/7bvqINdh9CY35o84hxgMs4"
+      },
+      {
         "name": "На небі",
         "artist": "Okean Elzy",
         "album_art": "https://i.scdn.co/image/ab67616d0000b2737c5dd89f14f0e9a18f360d59",
         "spotify_url": "https://open.spotify.com/track/307BZpDAtO3OwRs2wrV1S9"
-      },
-      {
-        "name": "Говорили і курили - Radio Edit",
-        "artist": "Скрябін",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273a384d76c8bbb94b7c2c5b8f0",
-        "spotify_url": "https://open.spotify.com/track/5ApnjHd2HFACFPomscuq31"
-      },
-      {
-        "name": "Wish",
-        "artist": "Diplo",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2730ad5bdf41fa39c6493977389",
-        "spotify_url": "https://open.spotify.com/track/3oByO94xgLnworeBgkCsGo"
-      },
-      {
-        "name": "Soundtrack 2 My Life",
-        "artist": "Kid Cudi",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273a487deeecb334b6619489d74",
-        "spotify_url": "https://open.spotify.com/track/0rFpcfF0YfvFUYsl99Bw9d"
-      },
-      {
-        "name": "Swimming Pools (Drank) - Extended Version",
-        "artist": "Kendrick Lamar",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273d58e537cea05c2156792c53d",
-        "spotify_url": "https://open.spotify.com/track/5ujh1I7NZH5agbwf7Hp8Hc"
       }
     ],
     "currently_playing": null
