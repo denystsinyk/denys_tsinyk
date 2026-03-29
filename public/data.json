@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T16:16:24.872Z",
+  "updated_at": "2026-03-29T16:55:17.727Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
-        "name": "Lover, You Should've Come Over",
-        "artist": "Jeff Buckley",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273afc2d1d2c8703a10aeded0af",
-        "spotify_url": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"
+        "name": "Ophelia",
+        "artist": "The Lumineers",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27321b550b66cf1391c6642088c",
+        "spotify_url": "https://open.spotify.com/track/14AyWf6y7KlWWLfAjdKMKI"
       },
       {
-        "name": "Lover, You Should've Come Over",
-        "artist": "Jeff Buckley",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273afc2d1d2c8703a10aeded0af",
-        "spotify_url": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"
+        "name": "Scar Tissue",
+        "artist": "Red Hot Chili Peppers",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595",
+        "spotify_url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
       },
       {
-        "name": "Upside Down",
-        "artist": "Jack Johnson",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2731e0232d637e8313d3ef4923e",
-        "spotify_url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
+        "name": "American Pie",
+        "artist": "Don McLean",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2730085dd4362653ef4c54ebbeb",
+        "spotify_url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
       },
       {
-        "name": "Каділак",
-        "artist": "DZIDZIO",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2736da79eed6e8970f11626d994",
-        "spotify_url": "https://open.spotify.com/track/7bvqINdh9CY35o84hxgMs4"
+        "name": "Rich Girl",
+        "artist": "Daryl Hall & John Oates",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2733ebc5b9d8942069d3b920550",
+        "spotify_url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
       },
       {
-        "name": "На небі",
-        "artist": "Okean Elzy",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2737c5dd89f14f0e9a18f360d59",
-        "spotify_url": "https://open.spotify.com/track/307BZpDAtO3OwRs2wrV1S9"
+        "name": "Kiss Me",
+        "artist": "Sixpence None The Richer",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273cfc5eea6cfd77e89ed3ac5a4",
+        "spotify_url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
       }
     ],
     "currently_playing": null
