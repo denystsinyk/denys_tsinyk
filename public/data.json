@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T21:38:30.949Z",
+  "updated_at": "2026-03-29T21:59:27.152Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,6 +48,12 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "Lover, You Should've Come Over",
+        "artist": "Jeff Buckley",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273afc2d1d2c8703a10aeded0af",
+        "spotify_url": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"
+      },
+      {
         "name": "Teenage Dirtbag",
         "artist": "Wheatus",
         "album_art": "https://i.scdn.co/image/ab67616d0000b2730a3740efa638f10f14fabc46",
@@ -70,12 +76,6 @@
         "artist": "Dexys Midnight Runners",
         "album_art": "https://i.scdn.co/image/ab67616d0000b2738bd8adbdc4727d9080240905",
         "spotify_url": "https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"
-      },
-      {
-        "name": "Vienna",
-        "artist": "Billy Joel",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
-        "spotify_url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
       }
     ],
     "currently_playing": null
