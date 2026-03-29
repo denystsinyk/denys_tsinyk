@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T18:49:21.304Z",
+  "updated_at": "2026-03-29T19:22:45.411Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,6 +48,12 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "Teenage Dirtbag",
+        "artist": "Wheatus",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2730a3740efa638f10f14fabc46",
+        "spotify_url": "https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS"
+      },
+      {
         "name": "Young Folks",
         "artist": "Peter Bjorn and John",
         "album_art": "https://i.scdn.co/image/ab67616d0000b2739cf4ac84b224a02f34d2e4f6",
@@ -70,12 +76,6 @@
         "artist": "Billy Joel",
         "album_art": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
         "spotify_url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
-      },
-      {
-        "name": "Kids",
-        "artist": "MGMT",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2738b32b139981e79f2ebe005eb",
-        "spotify_url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
       }
     ],
     "currently_playing": null
