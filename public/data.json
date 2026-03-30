@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T18:38:22.871Z",
+  "updated_at": "2026-03-30T19:39:47.403Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "Something in the Orange",
+        "artist": "Zach Bryan",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273e772398dc2edb9fc416b9cd1",
+        "spotify_url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+      },
+      {
+        "name": "Night Moves",
+        "artist": "Bob Seger",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273676a8230a422123e8012557e",
+        "spotify_url": "https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk"
+      },
+      {
+        "name": "Wagon Wheel",
+        "artist": "Darius Rucker",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2733c814f8afa852904e9db8a9f",
+        "spotify_url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
+      },
+      {
+        "name": "Delta Dawn",
+        "artist": "Tanya Tucker",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273ba6c1e3f4d2454cec0c54361",
+        "spotify_url": "https://open.spotify.com/track/62qNdSlhFznQD0gHpCGrtw"
+      },
+      {
         "name": "Only Wanna Be With You",
         "artist": "Hootie & The Blowfish",
         "album_art": "https://i.scdn.co/image/ab67616d0000b273820d2376b2fb84aa99823903",
         "spotify_url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
-      },
-      {
-        "name": "Toes",
-        "artist": "Zac Brown Band",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273157d6d0762e17e7dc1ad5203",
-        "spotify_url": "https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o"
-      },
-      {
-        "name": "Free Fallin'",
-        "artist": "Tom Petty",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456",
-        "spotify_url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
-      },
-      {
-        "name": "Beast Of Burden - Remastered 1994",
-        "artist": "The Rolling Stones",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b27305c7aec05eabf142cc33b936",
-        "spotify_url": "https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so"
-      },
-      {
-        "name": "Old Man",
-        "artist": "Neil Young",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273dd19d44cf651a37e3532a945",
-        "spotify_url": "https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8"
       }
     ],
     "currently_playing": null
