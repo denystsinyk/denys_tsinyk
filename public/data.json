@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T17:39:40.502Z",
+  "updated_at": "2026-03-30T18:38:22.871Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,34 +48,34 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "Only Wanna Be With You",
+        "artist": "Hootie & The Blowfish",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273820d2376b2fb84aa99823903",
+        "spotify_url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
+      },
+      {
+        "name": "Toes",
+        "artist": "Zac Brown Band",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273157d6d0762e17e7dc1ad5203",
+        "spotify_url": "https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o"
+      },
+      {
+        "name": "Free Fallin'",
+        "artist": "Tom Petty",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456",
+        "spotify_url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+      },
+      {
+        "name": "Beast Of Burden - Remastered 1994",
+        "artist": "The Rolling Stones",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b27305c7aec05eabf142cc33b936",
+        "spotify_url": "https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so"
+      },
+      {
         "name": "Old Man",
         "artist": "Neil Young",
         "album_art": "https://i.scdn.co/image/ab67616d0000b273dd19d44cf651a37e3532a945",
         "spotify_url": "https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8"
-      },
-      {
-        "name": "Float On",
-        "artist": "Modest Mouse",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273cc68329bfbf34037df965dc1",
-        "spotify_url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
-      },
-      {
-        "name": "Silver Springs - 2004 Remaster",
-        "artist": "Fleetwood Mac",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
-        "spotify_url": "https://open.spotify.com/track/4nZi6XNe36Ut4Nij3IQ1yC"
-      },
-      {
-        "name": "Lover, You Should've Come Over",
-        "artist": "Jeff Buckley",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273afc2d1d2c8703a10aeded0af",
-        "spotify_url": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"
-      },
-      {
-        "name": "Teenage Dirtbag",
-        "artist": "Wheatus",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2730a3740efa638f10f14fabc46",
-        "spotify_url": "https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS"
       }
     ],
     "currently_playing": null
