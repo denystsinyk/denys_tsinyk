@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T19:39:47.403Z",
+  "updated_at": "2026-03-30T20:26:05.111Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,6 +48,24 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "Feathered Indians",
+        "artist": "Tyler Childers",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2735a38bd36056b909ed607689d",
+        "spotify_url": "https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE"
+      },
+      {
+        "name": "Chicken Fried",
+        "artist": "Zac Brown Band",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273157d6d0762e17e7dc1ad5203",
+        "spotify_url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
+      },
+      {
+        "name": "Knee Deep (feat. Jimmy Buffett)",
+        "artist": "Zac Brown Band",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273300dd939c3081ff12fa69284",
+        "spotify_url": "https://open.spotify.com/track/60IGhnH20N82dNxKnc8jDd"
+      },
+      {
         "name": "Something in the Orange",
         "artist": "Zach Bryan",
         "album_art": "https://i.scdn.co/image/ab67616d0000b273e772398dc2edb9fc416b9cd1",
@@ -58,24 +76,6 @@
         "artist": "Bob Seger",
         "album_art": "https://i.scdn.co/image/ab67616d0000b273676a8230a422123e8012557e",
         "spotify_url": "https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk"
-      },
-      {
-        "name": "Wagon Wheel",
-        "artist": "Darius Rucker",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b2733c814f8afa852904e9db8a9f",
-        "spotify_url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
-      },
-      {
-        "name": "Delta Dawn",
-        "artist": "Tanya Tucker",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273ba6c1e3f4d2454cec0c54361",
-        "spotify_url": "https://open.spotify.com/track/62qNdSlhFznQD0gHpCGrtw"
-      },
-      {
-        "name": "Only Wanna Be With You",
-        "artist": "Hootie & The Blowfish",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273820d2376b2fb84aa99823903",
-        "spotify_url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
       }
     ],
     "currently_playing": null
