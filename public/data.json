@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T12:03:19.671Z",
+  "updated_at": "2026-04-01T14:01:17.926Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -48,6 +48,12 @@
   "spotify": {
     "recent_tracks": [
       {
+        "name": "When It Rains It Pours",
+        "artist": "Luke Combs",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273a456620e42fb68e8976c91b5",
+        "spotify_url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
+      },
+      {
         "name": "Feathered Indians",
         "artist": "Tyler Childers",
         "album_art": "https://i.scdn.co/image/ab67616d0000b2735a38bd36056b909ed607689d",
@@ -70,12 +76,6 @@
         "artist": "Zach Bryan",
         "album_art": "https://i.scdn.co/image/ab67616d0000b273e772398dc2edb9fc416b9cd1",
         "spotify_url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
-      },
-      {
-        "name": "Night Moves",
-        "artist": "Bob Seger",
-        "album_art": "https://i.scdn.co/image/ab67616d0000b273676a8230a422123e8012557e",
-        "spotify_url": "https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk"
       }
     ],
     "currently_playing": null
