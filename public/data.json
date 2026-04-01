@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T22:39:54.647Z",
+  "updated_at": "2026-04-01T23:21:10.489Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -39,14 +39,14 @@
       {
         "appid": 322170,
         "name": "Geometry Dash",
-        "playtime_forever": 1769,
+        "playtime_forever": 1799,
         "img_icon_url": "7fb2e71773468dbd98d56c733b604c92f5ab0ad4"
       }
     ],
     "currently_playing": {
       "appid": 322170,
       "name": "Geometry Dash",
-      "playtime_forever": 1769,
+      "playtime_forever": 1799,
       "img_icon_url": "7fb2e71773468dbd98d56c733b604c92f5ab0ad4"
     }
   },
