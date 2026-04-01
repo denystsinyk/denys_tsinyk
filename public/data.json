@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T15:23:47.934Z",
+  "updated_at": "2026-04-01T16:30:38.415Z",
   "steam_ok": true,
   "spotify_ok": true,
   "github": {
@@ -37,10 +37,10 @@
         "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
       },
       {
-        "appid": 945360,
-        "name": "Among Us",
-        "playtime_forever": 1687,
-        "img_icon_url": "b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801"
+        "appid": 322170,
+        "name": "Geometry Dash",
+        "playtime_forever": 1709,
+        "img_icon_url": "7fb2e71773468dbd98d56c733b604c92f5ab0ad4"
       }
     ],
     "currently_playing": null
