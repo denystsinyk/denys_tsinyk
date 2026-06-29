@@ -1,0 +1,88 @@
+{
+  "updated_at": "2026-04-02T02:08:34.155Z",
+  "steam_ok": true,
+  "spotify_ok": true,
+  "github": {
+    "pinned_repos": [],
+    "stats": {
+      "topLanguages": [],
+      "contributionStreak": 1,
+      "totalContributionsThisYear": 348
+    }
+  },
+  "steam": {
+    "top_games": [
+      {
+        "appid": 252490,
+        "name": "Rust",
+        "playtime_forever": 189998,
+        "img_icon_url": "820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c"
+      },
+      {
+        "appid": 359550,
+        "name": "Tom Clancy's Rainbow Six Siege",
+        "playtime_forever": 35531,
+        "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e"
+      },
+      {
+        "appid": 252950,
+        "name": "Rocket League",
+        "playtime_forever": 15211,
+        "img_icon_url": "9ad6dd3d173523354385955b5fb2af87639c4163"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 7903,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 322170,
+        "name": "Geometry Dash",
+        "playtime_forever": 1979,
+        "img_icon_url": "7fb2e71773468dbd98d56c733b604c92f5ab0ad4"
+      }
+    ],
+    "currently_playing": {
+      "appid": 322170,
+      "name": "Geometry Dash",
+      "playtime_forever": 1979,
+      "img_icon_url": "7fb2e71773468dbd98d56c733b604c92f5ab0ad4"
+    }
+  },
+  "spotify": {
+    "recent_tracks": [
+      {
+        "name": "When It Rains It Pours",
+        "artist": "Luke Combs",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273a456620e42fb68e8976c91b5",
+        "spotify_url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
+      },
+      {
+        "name": "Feathered Indians",
+        "artist": "Tyler Childers",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b2735a38bd36056b909ed607689d",
+        "spotify_url": "https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE"
+      },
+      {
+        "name": "Chicken Fried",
+        "artist": "Zac Brown Band",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273157d6d0762e17e7dc1ad5203",
+        "spotify_url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
+      },
+      {
+        "name": "Knee Deep (feat. Jimmy Buffett)",
+        "artist": "Zac Brown Band",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273300dd939c3081ff12fa69284",
+        "spotify_url": "https://open.spotify.com/track/60IGhnH20N82dNxKnc8jDd"
+      },
+      {
+        "name": "Something in the Orange",
+        "artist": "Zach Bryan",
+        "album_art": "https://i.scdn.co/image/ab67616d0000b273e772398dc2edb9fc416b9cd1",
+        "spotify_url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+      }
+    ],
+    "currently_playing": null
+  }
+}
